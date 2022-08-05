@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
+[@wordsbyfifi](https://twitter.com/wordsbyfifi/)
 
 ### Day 0: August 8, 2022
 
