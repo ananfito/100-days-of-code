@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/wordsbyfifi/)
 
+### Day 3: August 8, 2022
+
+**Today's Progress:** Continued working on [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) course created by freeCodeCamp. Currently 79% complete with the course.
+
+**Thoughts:** Today went smoothly. I needed to look up a few things for reference (e.g., the syntax of a switch statement), but other than that I had no issues. 
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 2: August 7, 2022
 
 **Today's Progress:** Continued working on [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) course created by freeCodeCamp. Currently 71% complete with the course.
