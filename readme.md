@@ -1,11 +1,21 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/wordsbyfifi/)
 
+### Day 4: August 9, 2022
+
+**Today's Progress:** Continued working on [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) course created by freeCodeCamp. Currently 84% complete with the course. Today's challenges focused on using objects for lookups, testing/manipulating objects, and accessing nested objects and arrays.
+
+**Thoughts:**  I'm not sure if these challenges were more difficult for me or if I was just tired, but I had to look things up and get some hints to make it through. It made me progress more slowly than I would have liked, but I'm okay with that - I don't want to go too quickly. Most of my troubles or 'road blocks' today came from minor typos (yay syntax errors!) and forgetting little things like '==' vs. '==='. Again, I'm not sure if it's because I'm tired or if I need some review, but a little review of the basics couldn't hurt.  
+
+I continued listening to [Vivaldi's 'Four Seasons - Winter'](https://youtu.be/ZPdk5GaIDjo) on repeat to help me focus AND I used an interval timer so that I would get up and move every 20 minutes, instead of sitting for an entire hour. 
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 3: August 8, 2022
 
 **Today's Progress:** Continued working on [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) course created by freeCodeCamp. Currently 79% complete with the course.
 
-**Thoughts:** Today went smoothly. I needed to look up a few things for reference (e.g., the syntax of a switch statement), but other than that I had no issues. 
+**Thoughts:** Today went smoothly. I needed to look up a few things for reference (e.g., the syntax of a switch statement), but other than that I had no issues.
 
 **Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
