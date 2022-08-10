@@ -1,13 +1,32 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/wordsbyfifi/)
 
+### Day 5: August 10, 2022
+
+**Today's Progress:** Continued working on [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) course created by freeCodeCamp. Currently 91% complete with the course - almost done! Today's challenges focused on iterations with loops. Here are some notes and key ideas I saved from today's session:
+
+- `for` loops are declared with three optional expressions separated by semicolons:
+`for (a; b; c)`, where `a` is the initialization statement, `b` is the condition statement, and `c` is the final expression
+- a `do...while` loop because it will first do one pass of the code inside the loop no matter what, and then continue to run the loop `while` the specified condition evaluates to `true`
+ - Essentially, a `do...while` loop ensures that the code inside the loop will run at least once
+
+**Thoughts:**  This was a good review lesson for me - both of the mathematics involved in the loops and the loops themselves. I've previously taken a Python programming course so I was familiar with the concepts of loops, but in JavaScript the syntax and setup is a little different so it was good to get that experience.
+
+I switched up my music today. I was feeling a little sleepy so I decided to listen to something a with a little more pep in it. I really enjoy the use of drum beats and string instruments in this song from the Battlestar Galactic (2005 reboot) *Prelude to War* composed by Bear McCreary:
+
+- [Studio recorded version](https://youtu.be/K2RQvE0GfYQ)
+- [Live performance](https://youtu.be/NohlZt1NB0g)
+- [Scene from the show featuring the song](https://youtu.be/J4PoBrrp6bY)
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 4: August 9, 2022
 
 **Today's Progress:** Continued working on [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) course created by freeCodeCamp. Currently 84% complete with the course. Today's challenges focused on using objects for lookups, testing/manipulating objects, and accessing nested objects and arrays.
 
 **Thoughts:**  I'm not sure if these challenges were more difficult for me or if I was just tired, but I had to look things up and get some hints to make it through. It made me progress more slowly than I would have liked, but I'm okay with that - I don't want to go too quickly. Most of my troubles or 'road blocks' today came from minor typos (yay syntax errors!) and forgetting little things like '==' vs. '==='. Again, I'm not sure if it's because I'm tired or if I need some review, but a little review of the basics couldn't hurt.  
 
-I continued listening to [Vivaldi's 'Four Seasons - Winter'](https://youtu.be/ZPdk5GaIDjo) on repeat to help me focus AND I used an interval timer so that I would get up and move every 20 minutes, instead of sitting for an entire hour. 
+I continued listening to [Vivaldi's 'Four Seasons - Winter'](https://youtu.be/ZPdk5GaIDjo) on repeat to help me focus AND I used an interval timer so that I would get up and move every 20 minutes, instead of sitting for an entire hour.
 
 **Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
