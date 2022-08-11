@@ -7,7 +7,7 @@ For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/words
 
 **Thoughts:** I'm tired. I got home late after an after-work dinner with some colleagues. I only spent about 20 minutes (not a full hour, but better than nothing) on today's challenge. I was able to get a rough outline of the function complete, but my brain is too tired to think clearly through the logic loops on this one. I'll have to save it for tomorrow.
 
-In looking for resources to help solve this problem, I stumbled upon the book [*Eloquent JavaScript* by Marjin Haverbeke](https://eloquentjavascript.net/). I'm enjoying freeCodeCamp's guided challenges (which do get progressively harder), but I think this book will help me understand some of the theory on a deeper level. It also has some chapters that focus on a building projects which is something I enjoy. What's the point of learning new skills if you can create something after, right?
+In looking for resources to help solve this problem, I stumbled upon the book [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marjin Haverbeke. I'm enjoying freeCodeCamp's guided challenges (which do get progressively harder), but I think this book will help me understand some of the theory on a deeper level. It also has some chapters that focus on a building projects which is something I enjoy. What's the point of learning new skills if you can create something after, right?
 
 **Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
