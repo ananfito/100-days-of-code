@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/wordsbyfifi/)
 
+### Day 7: August 12, 2022
+
+**Today's Progress:** Today I completed the [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) section of the *JavaScript Algorithms and Data Structures* course created by freeCodeCamp. I finished up this first section by learning about generating random numbers, using the `parseInt()` function, and using recursion.
+
+I also read through the first two chapters of [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marjin Haverbeke.
+
+**Thoughts:** Today was productive day. First, I read a few chapters of *Eloquent JavaScript* which was a smart choice. Most of the content in the book (so far) is the same as what was been covered in the *Basic JavaScript* section of fCC's course, but in more depth. I'm appreciating the deeper explanations. I like the quick, straight-to-the-point explanations that come with fCC's challenges, but it's nice to get to know them with more detail. The book also has exercises and projects, but I might hold off on those until I complete the entire fCC course.
+
+After reading I jumped into the final few challenges of the *Basic JavaScript*. I'm very satisfied with this progress and looking forward to tomorrow's coding challenges which start with the features of [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6). 
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 6: August 11, 2022
 
 **Today's Progress:** Continued working on [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) course created by freeCodeCamp. Currently 91% complete with the course. Today's challenges focused on writing a function to look up names and properties in a contacts array.
