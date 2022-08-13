@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/wordsbyfifi/)
+For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
 
 ### Day 8: August 13, 2022
 
