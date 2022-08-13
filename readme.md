@@ -9,7 +9,7 @@ I also read through Chapter 3 'Functions' from [*Eloquent JavaScript*](https://e
 
 *Quotes & Key Ideas*:
 
-`let` vs. `const`
+`let` vs. `const`:
 - "When you declare a variable with the `let` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression"
 - ""`const` has all the awesome features that let has, with the added bonus that variables declared using `const` are read-only. They are a constant value, which means that once a variable is assigned with const, it cannot be reassigned"
 - "However, it is important to understand that objects (including arrays and functions) assigned to a variable using `const` are still mutable. Using the `const` declaration only prevents reassignment of the variable identifier"
