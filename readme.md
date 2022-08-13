@@ -8,13 +8,15 @@ For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/words
 I also read through Chapter 3 'Functions' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marjin Haverbeke.
 
 *Quotes & Key Ideas*:
+
 `let` vs. `const`
 - "When you declare a variable with the `let` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression"
 - ""`const` has all the awesome features that let has, with the added bonus that variables declared using `const` are read-only. They are a constant value, which means that once a variable is assigned with const, it cannot be reassigned"
 - "However, it is important to understand that objects (including arrays and functions) assigned to a variable using `const` are still mutable. Using the `const` declaration only prevents reassignment of the variable identifier"
 - "To ensure your data doesn't change, JavaScript provides a function `Object.freeze()` to prevent data mutation."
 
-spread operator vs. array destructuring:
+`spread operator` vs. `array destructuring`:
+
 "One key difference between the spread operator and array destructuring is that the spread operator unpacks all contents of an array into a comma-separated list. Consequently, you cannot pick or choose which elements you want to assign to variables. Destructuring an array lets us do exactly that."
 
 **Thoughts:** The challenges on fCC were a little bit difficult today, especially the ones focused on destructuring. I will need to take another look at some of these or find some other resources to dive deeper into them.
