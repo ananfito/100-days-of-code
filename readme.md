@@ -1,6 +1,30 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter: [@wordsbyfifi](https://twitter.com/wordsbyfifi/)
 
+### Day 8: August 13, 2022
+
+**Today's Progress:** Today I started [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) section of fCC's course 'JavaScript Algorithms and Data Structures'. I'm currently 48% complete with it. The majority of todays challenges focused on destructuring.
+
+I also read through Chapter 3 'Functions' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marjin Haverbeke.
+
+*Quotes & Key Ideas*:
+`let` vs. `const`
+- "When you declare a variable with the `let` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression"
+- ""`const` has all the awesome features that let has, with the added bonus that variables declared using `const` are read-only. They are a constant value, which means that once a variable is assigned with const, it cannot be reassigned"
+- "However, it is important to understand that objects (including arrays and functions) assigned to a variable using `const` are still mutable. Using the `const` declaration only prevents reassignment of the variable identifier"
+- "To ensure your data doesn't change, JavaScript provides a function `Object.freeze()` to prevent data mutation."
+
+spread operator vs. array destructuring:
+"One key difference between the spread operator and array destructuring is that the spread operator unpacks all contents of an array into a comma-separated list. Consequently, you cannot pick or choose which elements you want to assign to variables. Destructuring an array lets us do exactly that."
+
+**Thoughts:** The challenges on fCC were a little bit difficult today, especially the ones focused on destructuring. I will need to take another look at some of these or find some other resources to dive deeper into them.
+
+Reading *Eloquent JavaScript* so far has been a useful method of review. The chapter I read today focused on functions and it was helpful to read about the theory of how these work and recall the work I did on the fCC's challenges which involved functions. For now, I'm going to continue to skip the exercises in the book and come back to them later. The combination of completing the challenges/exercises on fCC and reading the book chapters seems to be working well for me.
+
+For music today, I plugged in my speakers and played some [Soft Piano Jazz](https://youtu.be/UnTbgByYZWA) and gave my room a bit of a cafe vibe - but without the loud espresso machine. (-;
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 7: August 12, 2022
 
 **Today's Progress:** Today I completed the [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) section of the *JavaScript Algorithms and Data Structures* course created by freeCodeCamp. I finished up this first section by learning about generating random numbers, using the `parseInt()` function, and using recursion.
@@ -9,7 +33,7 @@ I also read through the first two chapters of [*Eloquent JavaScript*](https://el
 
 **Thoughts:** Today was productive day. First, I read a few chapters of *Eloquent JavaScript* which was a smart choice. Most of the content in the book (so far) is the same as what was been covered in the *Basic JavaScript* section of fCC's course, but in more depth. I'm appreciating the deeper explanations. I like the quick, straight-to-the-point explanations that come with fCC's challenges, but it's nice to get to know them with more detail. The book also has exercises and projects, but I might hold off on those until I complete the entire fCC course.
 
-After reading I jumped into the final few challenges of the *Basic JavaScript*. I'm very satisfied with this progress and looking forward to tomorrow's coding challenges which start with the features of [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6). 
+After reading I jumped into the final few challenges of the *Basic JavaScript*. I'm very satisfied with this progress and looking forward to tomorrow's coding challenges which start with the features of [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6).
 
 **Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
