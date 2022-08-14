@@ -1,6 +1,32 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
 
+### Day 9: August 14, 2022
+
+**Today's Progress:** Today I COMPLETED [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) section of fCC's course 'JavaScript Algorithms and Data Structures' and started the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (9% done so far). The ES6 section finished with challenges focused on module script, import/export, and promises. Here are my notes from today's session:
+
+*Quotes & Key Ideas*:
+- "*Template literals* allow you to create multi-line strings and to use string interpolation features to create strings." The are created using the following syntax: `${variable}` where `variable` is your desired output.
+- **ES5** uses the keyword `function` while in **ES6**, you can remove the `function` keyword and colon altogether when defining functions in objects.
+- "ES6 provides a new syntax to create objects, using the class keyword. It should be noted that the class syntax is just syntax, and not a full-fledged class-based implementation of an object-oriented paradigm, unlike in languages such as Java, Python, Ruby, etc."
+- "UpperCamelCase should be used by convention for ES6 class names"
+- "It is convention to precede the name of a private variable with an underscore (_). However, the practice itself does not make a variable private."
+
+*A different syntax is used for importing default files*:
+"To import a default export, you need to use a different import syntax. In the following example, add is the default export of the `math_functions.js` file. Here is how to import it:
+
+`import add from "./math_functions.js";`
+
+The syntax differs in one key place. The imported value, `add`, is not surrounded by curly braces (`{}`). `add` here is simply a variable name for whatever the default export of the `math_functions.js` file is. You can use any name here when importing a default."
+
+**Thoughts:** I feel a lot of ES6 challenges are taken out of context, I'm hoping they'll make more sense as I progress and see how their used in practice. If not, then I'll need to study them in more detail. The template literals and regex (so far) were pretty straight forward to me - I've played around with regexes before in a Python course. Some of the shorthand syntax is a little weird and I'm struggling to wrap my mind around it, but I think with practice it'll sink in better.
+
+For music today, I went back to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) (on repeat to keep me focused).
+
+Overall, I'm very satisfied with the progress I made today (especially since I completed a section of the course) and I'm looking forward to the next. I've still got 7 more sections to go until I get to the projects. 
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 8: August 13, 2022
 
 **Today's Progress:** Today I started [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) section of fCC's course 'JavaScript Algorithms and Data Structures'. I'm currently 48% complete with it. The majority of todays challenges focused on destructuring.
