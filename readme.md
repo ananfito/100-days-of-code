@@ -1,6 +1,45 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
 
+### Day 11: August 16, 2022
+
+**Today's Progress:** Today I worked on the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (61% done so far). Today's challenges were all focused on using regular expressions to match strings of characters. Here are my notes from today's session:
+
+*Quotes & Key Ideas*:
+- You can use a flag to match different cases of regexes. For example, `/apple/i` will match all cases of the string 'apple' such as apple, Apple, aPPle, etc.
+- "You can also extract the actual matches you found with the `.match()` method."
+- "To search or extract a pattern more than once, you can use the global search flag: `g`"
+- "You can have multiple flags on your regex like `/search/gi`"
+- **Wildcard Charcter**: "The wildcard character `.` will match any one character. The wildcard is also called `dot` and `period`. You can use the wildcard character just like any other character in the regex. For example, if you wanted to match `hug`, `huh`, `hut`, and `hum`, you can use the regex `/hu./` to match all four words."
+- **Match Single Character with Multiple Possibilities**: "For example, you want to match `bag`, `big`, and `bug` but not `bog`. You can create the regex `/b[aiu]g/` to do this. The `[aiu]` is the character class that will only match the characters `a`, `i`, or `u`."
+- "Inside a character set, you can define a range of characters to match using a hyphen character: `-`. For example, to match lowercase letters `a` through `e` you would use `[a-e]`."
+- "Using the hyphen (`-`) to match a range of characters is not limited to letters. It also works to match a range of numbers. For example, `/[0-5]/` matches any number between `0` and `5`, **including the `0` and `5`**."
+- It's also possible to match both letters and numbers at the same time. For example, `/[h-s2-6]/` will match the letters `h` through `s` and the numbers `2` through `6`.
+- **Negated characters** (characters you do NOT want to match): "To create a negated character set, you place a caret character (`^`) after the opening bracket and before the characters you do not want to match. For example, `/[^aeiou]/gi` matches all characters that are not a vowel. "
+ - You can use the + character to check to match a character (or group of characters) that appears one or more times in a row. "For example, `/a+/g` would find one match in abc and return `["a"]`. Because of the `+`, it would also find a single match in aabc and return `["aa"]`."
+ - While the `+` sign is used to check if a character occurs **one or more** times, the `*` sign can be used to check if a character occurs **zero or more** times.
+
+ **Greedy vs. Lazy Matching**:
+ - A *greedy* match will match the *longest* possible part of the string
+ - A *lazy* match will match shortest possible part that satisfies the regex expression. However, you can use the `?` character to change it to lazy matching.
+ - "*Note*: Parsing HTML with regular expressions should be avoided, but pattern matching an HTML string with regular expressions is completely fine."
+ - You can also use the `^` carrot character to search the beginning of strings, but to search the end of a string you would use the `$` dollar symbol at the end (e.g., `/story$/` will look for the string `story` at the end of a string like `This is the end of the story` and return a `true` value)
+
+ **shorthand character classes**:
+ - *alphanumeric*: In JavaScript the shortcut `\w` is used in place of `[A-Za-z0-9_]` to search for alphanumeric characters.
+ - *non-alphanumeric*: To search for the opposite of alphanumeric characters (i.e,. `!`, `%`, etc.) we can use `\W` which is equivalent to `[^A-Za-z0-9]`.
+ - *digits 0-9*: The shortcut to look for digit characters is `\d`, with a lowercase `d`. This is equal to the character class `[0-9]`
+
+**Thoughts:** Overall I'm feeling pretty confident about today's study session. The regular expressions haven't been too difficult for me, though I have seen them before in my study of Python - but that was a while ago so I'm appreciating the review in these challenges.
+
+I didn't listen to music during today's session - my hour of coding was broken up in to small segments at work and at home. I squeezed in the time wherever I could which worked pretty well. There's something relaxing about working on coding challenges, it's a nice break from the 'day job'. Looking forward to learning more.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
+### Day 10: August 15, 2022
+
+Rest day.
+
 ### Day 9: August 14, 2022
 
 **Today's Progress:** Today I COMPLETED the [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) section of fCC's course 'JavaScript Algorithms and Data Structures' and started the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (9% done so far). The ES6 section finished with challenges focused on module script, import/export, and promises. Here are my notes from today's session:
