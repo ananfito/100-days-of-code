@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
 
+### Day 12: August 17, 2022
+
+**Today's Progress:** Today I worked on the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (93% done so far). The main focuses of the challenges included different combinations of matching (e.g., matching everything, everything but numbers, everything but letters. etc.), positive and negative lookaheads, and checking for mixed groupings. Here are my notes from today's session:
+
+*Quotes & Key Ideas*:
+- "You can search for whitespace using `\s`, which is a lowercase `s`. This pattern not only matches whitespace, but also carriage return, tab, form feed, and new line characters."
+- "Search for non-whitespace using `\S`, which is an uppercase `s`. This pattern will **not** match whitespace, carriage return, tab, form feed, and new line characters."
+- "Quantity specifiers are used with curly brackets (`{` and `}`). You put two numbers between the curly brackets - for the lower and upper number of patterns. For example, to match only the letter a appearing between `3` and `5` times in the string `ah`, your regex would be `/a{3,5}h/`."
+- "You can specify the possible existence of an element with a question mark, `?`. This checks for zero or one of the preceding element. You can think of this symbol as saying the previous element is optional."
+- "*Lookaheads* are patterns that tell JavaScript to look-ahead in your string to check for patterns further along. This can be useful when you want to search for multiple patterns over the same string." *Positive lookaheads* look for a match while *negative lookaheads* look to see if there isn't a match.
+- "Sometimes we want to check for groups of characters using a Regular Expression and to achieve that we use parentheses `()`. If you want to find either Penguin or Pumpkin in a string, you can use the following Regular Expression: `/P(engu|umpk)in/g`"
+
+**Thoughts:** Yesterday, I was feeling pretty confident with the regexes but today the syntaxed seemed harder for my brain to process. I think I might need to practice them a bit more. However, I worked on this during the afternoon when I would have preferred to take a nap - it's the first week of school and I'm feeling the drain on my energy levels. With school starting I think I might need to adjust my goals a bit; instead of aiming for a full hour of code each day I think I might aim for 30 minutes. This will be easier to meet and if I have the energy (or momentum) I can always keep doing.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 11: August 16, 2022
 
 **Today's Progress:** Today I worked on the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (61% done so far). Today's challenges were all focused on using regular expressions to match strings of characters. Here are my notes from today's session:
