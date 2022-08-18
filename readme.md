@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
 
+### Day 13: August 18, 2022
+
+**Today's Progress:** Today I finished the final challenges for the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section on freeCodeCamp AND I was able to complete the 12 challenges for the [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging). Here are my notes from today's session:
+
+*Quotes & Key Ideas*:
+- "You can search and replace text in a string using `.replace()` on a string. The inputs for `.replace()` is first the regex pattern you want to search for. The second parameter is the string to replace the match or a function to do something."
+- Firefox and Chrome have DevTools to help with debugging JavaScript
+- The `console.log()` method can be strategically placed at points within in your code so you know what's happening as the program is being run. This helps with knowing where to look when something goes wrong.
+- `typeof` can be used to check the data structure/type of a variable
+- "JavaScript recognizes seven primitive (immutable) data types: `Boolean`, `Null`, `Undefined`, `Number`, `String`, `Symbol` (new with ES6), and `BigInt` (new with ES2020), and one type for mutable items: `Object`. Note that in JavaScript, arrays are technically a type of object."
+
+**Thoughts:** The syntax of the regular expressions can be a little tricky, but I think I'm getting the hang of it. I really enjoyed the debugging challenges. It was really useful to read the code in a program and know that there was an error somewhere. It reinforced some previous concepts of how everything fits together. It also felt a little bit like the coding version of *Where's Waldo?*. Overall, I felt great about today's session and I'm looking forward to learning about Basic Data Structures in JavaScript. 
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 12: August 17, 2022
 
 **Today's Progress:** Today I worked on the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (93% done so far). The main focuses of the challenges included different combinations of matching (e.g., matching everything, everything but numbers, everything but letters. etc.), positive and negative lookaheads, and checking for mixed groupings. Here are my notes from today's session:
