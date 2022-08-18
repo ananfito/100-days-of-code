@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
+For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
 
 ### Day 13: August 18, 2022
 
@@ -12,7 +12,7 @@ For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsb
 - `typeof` can be used to check the data structure/type of a variable
 - "JavaScript recognizes seven primitive (immutable) data types: `Boolean`, `Null`, `Undefined`, `Number`, `String`, `Symbol` (new with ES6), and `BigInt` (new with ES2020), and one type for mutable items: `Object`. Note that in JavaScript, arrays are technically a type of object."
 
-**Thoughts:** The syntax of the regular expressions can be a little tricky, but I think I'm getting the hang of it. I really enjoyed the debugging challenges. It was really useful to read the code in a program and know that there was an error somewhere. It reinforced some previous concepts of how everything fits together. It also felt a little bit like the coding version of *Where's Waldo?*. Overall, I felt great about today's session and I'm looking forward to learning about Basic Data Structures in JavaScript. 
+**Thoughts:** The syntax of the regular expressions can be a little tricky, but I think I'm getting the hang of it. I really enjoyed the debugging challenges. It was really useful to read the code in a program and know that there was an error somewhere. It reinforced some previous concepts of how everything fits together. It also felt a little bit like the coding version of *Where's Waldo?*. Overall, I felt great about today's session and I'm looking forward to learning about Basic Data Structures in JavaScript.
 
 **Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
