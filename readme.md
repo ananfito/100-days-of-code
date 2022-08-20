@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
-For updates daily follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) for the 'pretty' version of this log.
+For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
+
+### Day 15: August 20, 2022
+
+**Today's Progress:** Today I started the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) of freeCodeCamp's course on JavaScript. Currently I am 45% complete. Today's challenges focused on mutating arrays using the methods `push()`, `unshift()`, `pop()`, `shift()`, `splice()`, `slice()`, and using the spread operator (`...`). Here are my notes from today's session:
+
+*Quotes & Key Ideas*:
+ - Arrays have a length property which can be accessed with the syntax `Array.length`
+ - "**The fundamental feature of any data structure is, of course, the ability to not only store data, but to be able to retrieve that data on command.**"
+ - In JavaScript, arrays are indexed starting at zero (`0`). Item within arrays can be accessed using *bracket* `[]` notation, for example `array[0]` accesses the first item in the array called `array`. Often, we will assign an element of an array to a variable for easy access (i.e., `element = array[0]`). We can also re-assign (i.e., replace) elements within an array using the bracket notation: `array[1] = "new element";` will re-assign the second element with the new string `"new element"`.
+ - Arrays are *mutable* and can be modified using the methods of `push()` and `unshift()`. `push()` adds an element at the end of the array and `unshift()` adds an element at the beginning of the array. These methods can accept multiple arguments, including variables.
+ - "Both `push()` and `unshift()` have corresponding methods that are *nearly* functional opposites: `pop()` and `shift()`. As you may have guessed by now, instead of adding, `pop()` removes an element from the end of an array, while `shift()` removes an element from the beginning. The key difference between `pop()` and `shift()` and their cousins `push()` and `unshift()`, is that neither method takes parameters, and **each only allows an array to be modified by a single element at a time**."
+ - `splice()` allows us to remove any number of consecutive elements from anywhere in an array. This method can take up to 3 parameters; the first parameter represents the index of the array that `splice()` is being called upon, the second parameter (optional) represents the number of elements to delete, and the third parameter (optional) represents new elements to be added. "`splice()` not only modifies the array it's being called on, but it also returns a new array containing the value of the removed elements"
+ - `slice()` copies or extracts a given number of elements to a new array, leaving the array it is called upon untouched. It "takes only 2 parameters — the first is the index at which to begin extraction, and the second is the index at which to stop extraction (**extraction will occur up to, but not including the element at this index**)"
+ - "ES6's new *spread operator* allows us to easily copy all of an array's elements, in order, with a simple and highly readable syntax. The spread syntax simply looks like this: `...`" For example, `thatArray = [...thisArray]` will copy all of the elements from `thisArray` into a new array assigned to `thatArray`.
+
+**Thoughts:** At the beginning of my coding session I was feeling a little sluggish and sleepy, but listening to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) and using an interval timer helped me stay focused.
+
+I really enjoyed today's challenges because they worked a lot of with arrays and indexing of arrays. I have a pretty solid understanding of how indexing works, but sometimes it takes a bit effort to wrap my head around it in practice. Today's challenges were full of practicing the indexing of arrays by adding and removing elements.
+
+I also enjoyed some of the logic problems introduced with creating functions that copy arrays based on a given number. These problems are starting to make use of all the previous topics which is nice to see it all coming together. I would imagine it's similar to when you first start learning to read. Yeah, it's great to be able to write out letters and spell words, but it's not until you're able to read full books that you really get the benefit of all the writing practice.
+
+Later in the afternoon, after completing freeCodeCamp's challenges, I read Chapter 4 'Data Structures: Objects and Arrays' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marjin Haverbeke. The coincidental alignment of this chapter with today's challenges was a convenient and advantageous to me. Reading the chapter helped solidify the ideas as well as provided some extra, deeper examples to further my understanding.
+
+Overall, today's session felt great (even if I was a bit drained from the first week of school).
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
+### Day 14: August 19, 2022
+
+Rest Day.
 
 ### Day 13: August 18, 2022
 
