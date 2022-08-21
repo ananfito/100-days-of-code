@@ -1,6 +1,29 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 16: August 21, 2022
+
+**Today's Progress:** Today I completed the second half of the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) from freeCodeCamp's course on JavaScript. Next, I'll be moving on to 'Basic Algorithm Scripting'. Today's challenges focused on interacting with nested arrays and objects. Below are my notes and reflection from today's session.
+
+*Quotes & Key Ideas*:
+ - "`indexOf()` takes an element as a parameter, and when called, it returns the position, or index, of that element, or -1 if the element does not exist on the array."
+ - "JavaScript offers several built in methods that each iterate over arrays in slightly different ways to achieve different results (such as `every()`, `forEach()`, `map()`, etc.), however the technique which is most flexible and offers us the greatest amount of control is a simple `for` loop."
+ - "At their most basic, objects are just collections of *key-value* pairs. In other words, they are pieces of data (*values*) mapped to unique identifiers called properties (*keys*)."
+ - You can use the dot notation to add key-value pairs to an object (e.g., `contact.email = 'messagme@mail.com';`). However, if the new property (*key*) has as a space in it, then the bracket (`[]`) notation must be used (e.g., `contact['phone number'] = '1-800-2633';`).
+ - To remove a *key* from an object use the keyword `delete`. For example, `delete foods.apples;` will remove the `apples` key from the `foods` object.
+ - How to check for a property: "JavaScript provides us with two different ways to do this. One uses the `hasOwnProperty()` method and the other uses the `in` keyword." For example, let's say we have an object called `users` and within there is a property (*value*) called `'Alan'`, then `users.hasOwnProperty('Alan');` and `'Alan' in users;` will both return `true`.
+ - "Sometimes you may need to iterate through all the keys within an object. This requires a specific syntax in JavaScript called a *for...in* statement."
+ - "**NOTE**: Objects do not maintain an ordering to stored keys like arrays do; thus a key's position on an object, or the relative order in which it appears, is irrelevant when referencing or accessing that key."
+ - `Object.keys()` is a method will generate an array of all the keys within an objects. It takes an object as its argument.
+
+**Thoughts:** Whew! Nested arrays and objects can be a bit dicey, but I think I'm getting there. It took a lot of brain power to navigate through them and write functions/code to manipulate the different levels.
+
+I ended up doing a 'power' code session where I worked for two 33-minute blocks of time while listening to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ). This 'power' session approached help me stay focus and complete the 'Basic Data Structure' section of the course which was great because that was my goal when I sat down to study.
+
+I'm not sure I'd always take this approach (sitting for an hour with only a small break in the middle is taxing on the body and mind), but I wanted to get in my study time today since I've got some other plans (and chores) to this Sunday. That aside, I think today was another good study session and I'm looking forward to the next.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 15: August 20, 2022
 
 **Today's Progress:** Today I started the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) of freeCodeCamp's course on JavaScript. Currently I am 45% complete. Today's challenges focused on mutating arrays using the methods `push()`, `unshift()`, `pop()`, `shift()`, `splice()`, `slice()`, and using the spread operator (`...`). Here are my notes from today's session:
