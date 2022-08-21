@@ -3,7 +3,7 @@ For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/word
 
 ### Day 16: August 21, 2022
 
-**Today's Progress:** Today I completed the second half of the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) from freeCodeCamp's course on JavaScript. Next, I'll be moving on to 'Basic Algorithm Scripting'. Today's challenges focused on interacting with nested arrays and objects. Below are my notes and reflection from today's session.
+**Today's Progress:** Today I completed the second half of the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) section on JavaScript course from freeCodeCamp. Next, I'll be moving on to 'Basic Algorithm Scripting'. Today's challenges focused on interacting with nested arrays and objects. Below are my notes and reflection from today's session.
 
 *Quotes & Key Ideas*:
  - "`indexOf()` takes an element as a parameter, and when called, it returns the position, or index, of that element, or -1 if the element does not exist on the array."
