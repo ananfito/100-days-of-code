@@ -3,7 +3,7 @@ For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/word
 
 ### Day 17: August 22, 2022
 
-**Today's Progress:** Today I started the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section on the JavaScript course from freeCodeCamp. I'm currently 31% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point.
+**Today's Progress:** Today I started the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 31% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point.
 
 **Thoughts:** Today's challenges were more exercise-based rather than guided examples. I really enjoyed this because it was an opportunity to put what I've learned so far into practice. Specifically, I got to practice creating algorithms that used loops to count elements of arrays or write function to accomplish a task like finding the largest word in a string. And I got to practice finding solutions on my own via web/forum searches to piece together the program (a key skill for any developer).
 
