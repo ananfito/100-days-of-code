@@ -1,9 +1,25 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 17: August 22, 2022
+
+**Today's Progress:** Today I started the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section on the JavaScript course from freeCodeCamp. I'm currently 31% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point.
+
+**Thoughts:** Today's challenges were more exercise-based rather than guided examples. I really enjoyed this because it was an opportunity to put what I've learned so far into practice. Specifically, I got to practice creating algorithms that used loops to count elements of arrays or write function to accomplish a task like finding the largest word in a string. And I got to practice finding solutions on my own via web/forum searches to piece together the program (a key skill for any developer).
+
+For reference, here are some of the tutorials I found useful:
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
+- https://stackabuse.com/how-to-convert-a-string-to-an-array-in-javascript/
+- https://eloquentjavascript.net/03_functions.html
+- https://www.w3schools.com/js/js_loop_forin.asp
+
+As usual, to help stay focused I listened to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) on repeat via headphones with noise-reduction.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 16: August 21, 2022
 
-**Today's Progress:** Today I completed the second half of the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) section on JavaScript course from freeCodeCamp. Next, I'll be moving on to 'Basic Algorithm Scripting'. Today's challenges focused on interacting with nested arrays and objects. Below are my notes and reflection from today's session.
+**Today's Progress:** Today I completed the second half of the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) section on  the JavaScript course from freeCodeCamp. Next, I'll be moving on to 'Basic Algorithm Scripting'. Today's challenges focused on interacting with nested arrays and objects. Below are my notes and reflection from today's session.
 
 *Quotes & Key Ideas*:
  - "`indexOf()` takes an element as a parameter, and when called, it returns the position, or index, of that element, or -1 if the element does not exist on the array."
