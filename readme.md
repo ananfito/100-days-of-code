@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 18: August 23, 2022
+
+**Today's Progress:** Today I continued working on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 44% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point.
+
+**Thoughts:** As with yesterday's session, today's challenges were exercise based instead of guided examples. This made it more challenging because you're writing full algorithm scripts instead of just changing a few lines here or there to demonstrate a concept. I enjoyed this challenge because (again) it's an opportunity to put into practice what I've learned up until this point, as well as practicing vital problem-solving skills (i.e., knowing how to find the right resources to solve your problem).
+
+I'm very satisfied with today's session and only sad that I didn't have more time and energy to work though more challenges, but that's okay because rest is also an important component of learning (gotta give those brain neurons time to connect).  
+
+For reference, here are some of the tutorials I found useful:
+- https://www.w3schools.com/jsref/jsref_slice_string.asp
+- https://www.w3schools.com/js/js_loop_while.asp
+
+Today I decided to switch up my focus music (slightly). Today I chose to listen to [*Fight Night*](https://youtu.be/luEnIGXO1d0) instead of [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) from the Battlestar Galactica soundtrack (which by the way, I just noticed I spelled incorrectly in my previous posts -__-). This song is shorter than, but has a similar pace/beat as *Prelude to War*. I like the use of drums, I feel it keeps me moving forward. Again, I listened to it on repeat with noise-reduction headphones.
+
+I forget where I learned it, but I remember reading how listening to music on repeat helps keep you focused because the brain isn't wasting energy on "deciphering" the patterns in the music. It already knows what's coming so now it can focus on other tasks, like writing algorithm scripts. I learned that a few years ago and it seemed to work for me so now it's my go-to trick for when I need to sit down and focus deeply on something.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 17: August 22, 2022
 
 **Today's Progress:** Today I started the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 31% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point.
@@ -13,7 +31,7 @@ For reference, here are some of the tutorials I found useful:
 - https://eloquentjavascript.net/03_functions.html
 - https://www.w3schools.com/js/js_loop_forin.asp
 
-As usual, to help stay focused I listened to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) on repeat via headphones with noise-reduction.
+As usual, to help stay focused I listened to the Battlestar Galactica song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) on repeat via headphones with noise-reduction.
 
 **Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
@@ -34,7 +52,7 @@ As usual, to help stay focused I listened to the Battlestar Galactic song [*Prel
 
 **Thoughts:** Whew! Nested arrays and objects can be a bit dicey, but I think I'm getting there. It took a lot of brain power to navigate through them and write functions/code to manipulate the different levels.
 
-I ended up doing a 'power' code session where I worked for two 33-minute blocks of time while listening to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ). This 'power' session approached help me stay focus and complete the 'Basic Data Structure' section of the course which was great because that was my goal when I sat down to study.
+I ended up doing a 'power' code session where I worked for two 33-minute blocks of time while listening to the Battlestar Galactica song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ). This 'power' session approached help me stay focus and complete the 'Basic Data Structure' section of the course which was great because that was my goal when I sat down to study.
 
 I'm not sure I'd always take this approach (sitting for an hour with only a small break in the middle is taxing on the body and mind), but I wanted to get in my study time today since I've got some other plans (and chores) to this Sunday. That aside, I think today was another good study session and I'm looking forward to the next.
 
@@ -54,7 +72,7 @@ I'm not sure I'd always take this approach (sitting for an hour with only a smal
  - `slice()` copies or extracts a given number of elements to a new array, leaving the array it is called upon untouched. It "takes only 2 parameters — the first is the index at which to begin extraction, and the second is the index at which to stop extraction (**extraction will occur up to, but not including the element at this index**)"
  - "ES6's new *spread operator* allows us to easily copy all of an array's elements, in order, with a simple and highly readable syntax. The spread syntax simply looks like this: `...`" For example, `thatArray = [...thisArray]` will copy all of the elements from `thisArray` into a new array assigned to `thatArray`.
 
-**Thoughts:** At the beginning of my coding session I was feeling a little sluggish and sleepy, but listening to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) and using an interval timer helped me stay focused.
+**Thoughts:** At the beginning of my coding session I was feeling a little sluggish and sleepy, but listening to the Battlestar Galactica song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) and using an interval timer helped me stay focused.
 
 I really enjoyed today's challenges because they worked a lot of with arrays and indexing of arrays. I have a pretty solid understanding of how indexing works, but sometimes it takes a bit effort to wrap my head around it in practice. Today's challenges were full of practicing the indexing of arrays by adding and removing elements.
 
@@ -161,7 +179,7 @@ The syntax differs in one key place. The imported value, `add`, is not surrounde
 
 **Thoughts:** I feel a lot of ES6 challenges are taken out of context, I'm hoping they'll make more sense as I progress and see how their used in practice. If not, then I'll need to study them in more detail. The template literals and regex (so far) were pretty straight forward to me - I've played around with regexes before in a Python course. Some of the shorthand syntax is a little weird and I'm struggling to wrap my mind around it, but I think with practice it'll sink in better.
 
-For music today, I went back to the Battlestar Galactic song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) (on repeat to keep me focused).
+For music today, I went back to the Battlestar Galactica song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) (on repeat to keep me focused).
 
 Overall, I'm very satisfied with the progress I made today (especially since I completed a section of the course) and I'm looking forward to the next. I've still got 7 more sections to go until I get to the projects which are always 'fun' challenges because that's when you get to put it all together.
 
@@ -226,7 +244,7 @@ In looking for resources to help solve this problem, I stumbled upon the book [*
 
 **Thoughts:**  This was a good review lesson for me - both of the mathematics involved in the loops and the loops themselves. I've previously taken a Python programming course so I was familiar with the concepts of loops, but in JavaScript the syntax and setup is a little different so it was good to get that experience.
 
-I switched up my music today. I was feeling a little sleepy so I decided to listen to something a with a little more pep in it. I really enjoy the use of drum beats and string instruments in this song from the Battlestar Galactic (2005 reboot) *Prelude to War* composed by Bear McCreary:
+I switched up my music today. I was feeling a little sleepy so I decided to listen to something a with a little more pep in it. I really enjoy the use of drum beats and string instruments in this song from the Battlestar Galactica (2005 reboot) *Prelude to War* composed by Bear McCreary:
 
 - [Studio recorded version](https://youtu.be/K2RQvE0GfYQ)
 - [Live performance](https://youtu.be/NohlZt1NB0g)
