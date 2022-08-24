@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 19 August 24, 2022
+
+**Today's Progress:** Today I continued working on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 62%% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point. I worked on writing scripts for repeating a string, finding an element in an array, and checking the value for Booleans.
+
+**Thoughts:** I ran out steam working on today's session - I didn't get as far as I wanted (it was a long day at work), but I'm grateful I got a few challenges complete. As with my previous days' entries, I'm enjoying how these challenges are setup. It's been good to put into practice what I've learned and it's really, really gratifying when I can write the script and get it to work. I'm hoping to make more progress as the week goes on.
+
+While I studied today I used a pencil and paper to sketch out the pieces of the algorithm before I actually sat down to type it out. This turned out to be a useful strategy. I hadn't realized how difficult it was keeping it all straight in my head. As with other strategies I'm learning on this journey, I'll have to keep that one in my "toolkit" when I'm stuck.
+
+For reference, here are some of the tutorials I found useful during today's challenges:
+- https://attacomsian.com/blog/string-capitalize-javascript
+- https://www.w3schools.com/jsref/jsref_split.asp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet (very handy cheatsheet for regex shorthand)
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+- https://stackoverflow.com/questions/9169764/javascript-regex-shorthand
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 18: August 23, 2022
 
 **Today's Progress:** Today I continued working on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 44% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point.
