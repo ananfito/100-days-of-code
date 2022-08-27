@@ -3,7 +3,7 @@ For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/word
 
 ### Day 22: August 27, 2022
 
-**Today's Progress:** Today I read through Chapter 5 'Higher-Order Functions' of [*Eloquent JavaScript*](https://eloquentjavascript.net/). It focused on using *abstraction* to write simpler, easy-to-read programs/scripts. Below are my notes from today's reading.
+**Today's Progress:** Today I read through Chapter 5 'Higher-Order Functions' of [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke. This chapter focused on using *abstraction* to write simpler, easy-to-read programs/scripts. Below are my notes from today's reading.
 
 *Quotes & Key Ideas*:
 - "'There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.' - C.A.R. Hoare, 1980 ACM Turing Award Lecture"
