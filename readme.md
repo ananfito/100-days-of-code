@@ -1,7 +1,35 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
-### Day 19 August 24, 2022
+### Day 22: August 27, 2022
+
+**Today's Progress:** Today I read through Chapter 5 'Higher-Order Functions' of [*Eloquent JavaScript*](https://eloquentjavascript.net/). It focused on using *abstraction* to write simpler, easy-to-read programs/scripts. Below are my notes from today's reading.
+
+*Quotes & Key Ideas*:
+- "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies." - C.A.R. Hoare, 1980 ACM Turing Award Lecture
+- "Functions that operate on other functions, either by taking them as arguments or by returning them, are called *higher-order functions*. ... Higher-order functions allow us to abstract over *actions*, not just values."
+- "The `map` method transforms an array by applying a function to all of its elements and building a new array from the returned values. The new array will have the same length as the input array, but its content will have been *mapped* to a new form by the function."
+- "Another common thing to do with arrays is to compute a single value from them." When we compute a single value (like finding the sum, or the element with the most characters) we are “reducing” (or folding) the array.
+- "Higher-order functions start to shine when you need to *compose* operations
+- It’s not enough to just write eloquent or simple, easy-to-read scripts. It’s also important to be strategic about what those scripts are going to be used for/on. In other words, what are the actual computations the computer will do and how much energy/time will it consume to do so.
+- "The `some` method is another higher-order function. It takes a test function and tells you whether that function returns true for any of the elements in the array."
+- "If you have a character (which will be a string of one or two code units), you can use `codePointAt(0)` to get its code."
+
+**Thoughts:** It's been a long week. Long story short, I've got a back/neck ache due to a poor ergonomic desk setup at work (still troubleshooting that) and I had some gastro-intestinal issues that required a day of rest. As such, I haven't got a lot of actually coding done lately. The past two days were Rest Days and today I only read through a chapter of *Eloquent JavaScript*.
+
+However, I am enjoying reading through this book. Combined with the exercises I've been doing on freeCodeCamp I'm finding it helpful to reinforce the concepts and see things explained in a different way.
+
+Admittedly, I am bit sad about not getting to work on sitting down at the desk and coding, but my health has to take a priority. I'm still not quite feeling 100%, but hopefully tomorrow I'll be rested and ready to get back at it.
+
+### Day 21: August 26, 2022
+
+Rest day.
+
+### Day 20: August 25, 2022
+
+Rest day.
+
+### Day 19: August 24, 2022
 
 **Today's Progress:** Today I continued working on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 62%% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point. I worked on writing scripts for repeating a string, finding an element in an array, and checking the value for Booleans.
 
