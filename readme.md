@@ -6,7 +6,7 @@ For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/word
 **Today's Progress:** Today I read through Chapter 5 'Higher-Order Functions' of [*Eloquent JavaScript*](https://eloquentjavascript.net/). It focused on using *abstraction* to write simpler, easy-to-read programs/scripts. Below are my notes from today's reading.
 
 *Quotes & Key Ideas*:
-- "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies." - C.A.R. Hoare, 1980 ACM Turing Award Lecture
+- "'There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.' - C.A.R. Hoare, 1980 ACM Turing Award Lecture"
 - "Functions that operate on other functions, either by taking them as arguments or by returning them, are called *higher-order functions*. ... Higher-order functions allow us to abstract over *actions*, not just values."
 - "The `map` method transforms an array by applying a function to all of its elements and building a new array from the returned values. The new array will have the same length as the input array, but its content will have been *mapped* to a new form by the function."
 - "Another common thing to do with arrays is to compute a single value from them." When we compute a single value (like finding the sum, or the element with the most characters) we are “reducing” (or folding) the array.
