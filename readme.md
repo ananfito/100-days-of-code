@@ -1,6 +1,40 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 23: August 28, 2022
+
+**Today's Progress:** Today I read Chapter 6 'The Secret Life of Objects' in [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke and I completed a few challenges on [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 69% complete with this section.
+
+Here are some quotes and key ideas from *Eloquent JavaScript*:
+- "The core idea in object-oriented programming is to divide programs into smaller pieces and make each piece responsible for managing its own state."
+- "Different pieces of such a program interact with each other through interfaces, limited sets of functions or bindings that provide useful functionality at a more abstract level, hiding their precise implementation."
+- JavaScript currently doesn't support a way to distinguish from public and private properties so "it is also common to put an underscore (`_`) character at the start of property names to indicate that those properties are private."
+- *Encapsulation* is the idea of separating interface from implementation
+- "In addition to their set of properties, most objects also have a *prototype*. A prototype is another object that is used as a fallback source of properties."
+- "JavaScript’s prototype system can be interpreted as a somewhat informal take on an object-oriented concept called *classes*. A class defines the shape of a type of object—what methods and properties it has. Such an object is called an *instance* of the class."
+- "By convention, the names of constructors are capitalized so that they can easily be distinguished from other functions."
+- "JavaScript classes are constructor functions with a prototype property."
+- "The `class` keyword starts a class declaration, which allows us to define a constructor and a set of methods all in a single place."
+- In programming, the word *map* refers to two different things: as a *verb* it means to transform a data structure by applying a function to it while as *noun* it is a data structure that associates values (the keys) with other values.
+- To avoid confusion, "JavaScript comes with a class called `Map`that is written for this exact purpose. It stores a mapping and allows any type of keys"
+- "The methods `set`, `get`, and `has` are part of the interface of the `Map` object"
+- "When a piece of code is written to work with objects that have a certain interface—in this case, a `toString` method—any kind of object that happens to support this interface can be plugged into the code, and it will just work. This technique is called *polymorphism*. Polymorphic code can work with values of different shapes, as long as they support the interface it expects."
+- "Symbols are values created with the `Symbol` function. Unlike strings, newly created symbols are unique—you cannot create the same symbol twice."
+
+**Thoughts:** The concepts in Chapter 6 of *Eloquent JavaScript* were challenging to wrap my brain around. I think I'll need to read more about how prototypes, classes, symbols, and matrices work in JavaScript. I also found the challenges on freeCodeCamp difficult as well, particularly the challenge about capitalizing the first letter in a string.
+
+My first attempt did not work. I surfed around the internet to find some ideas for solutions, but those didn't work either (see below for some references). In the end, I consulted the [freeCodeCamp hints and solutions](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-title-case-a-sentence/16088). I modeled my response after that, but I'm still unsure why my first attempt didn't work and (stupidly) I didn't save it so I could play around with it later, outside of freeCodeCamp's interpreter, or show it to someone else to get help on it. -_-
+
+Overall, while today's session was challenging it was a good reminder to be patient and move slowly.
+
+*References I found useful*:
+- https://attacomsian.com/blog/string-capitalize-javascript (I didn't save my first attempt, but I modeled after this tutorial - next time, I'll save more work so I can ask for help from others. #liveandlearn)
+- https://www.w3schools.com/jsref/jsref_split.asp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet
+- https://www.w3schools.com/jsref/jsref_join.asp
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 22: August 27, 2022
 
 **Today's Progress:** Today I read through Chapter 5 'Higher-Order Functions' of [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke. This chapter focused on using *abstraction* to write simpler, easy-to-read programs/scripts. Below are my notes from today's reading.
@@ -31,7 +65,7 @@ Rest day.
 
 ### Day 19: August 24, 2022
 
-**Today's Progress:** Today I continued working on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 62%% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point. I worked on writing scripts for repeating a string, finding an element in an array, and checking the value for Booleans.
+**Today's Progress:** Today I continued working on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 62% complete with this section. Today's challenges focused on writing algorithms to solve a specific task and incorporated a lot of the concepts taught up until this point. I worked on writing scripts for repeating a string, finding an element in an array, and checking the value for Booleans.
 
 **Thoughts:** I ran out steam working on today's session - I didn't get as far as I wanted (it was a long day at work), but I'm grateful I got a few challenges complete. As with my previous days' entries, I'm enjoying how these challenges are setup. It's been good to put into practice what I've learned and it's really, really gratifying when I can write the script and get it to work. I'm hoping to make more progress as the week goes on.
 
