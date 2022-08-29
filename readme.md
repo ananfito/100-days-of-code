@@ -1,6 +1,29 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 24: August 29, 2022
+
+**Today's Progress:** I completed challenges on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 94% complete with this section. The challenges focused on using loops, indexing, string conversion, and other concepts learned up until this point.
+
+**Thoughts:** As with the previous challenges in this section they are both exciting and difficult to complete. I'm enjoying being able to start a script from scratch and work to completion on it, but also finding it difficult when it doesn't work. I'm know this is all part of the learning process and probably mimics what a developer's job is like, but diving in tutorials and forum posts is not as convenient as poking your co-working for help when you need it.
+
+Overall, I'm satisfied with my progress today. I would have liked to finish the section completely (only one challenge left!), but I'm too tired from the work day.
+
+For music today, I drifted away from *Battlestar Galactica* and listened to [Mozart's Piano Concerto No. 23](https://youtu.be/BMYjGkgzinU) on repeat. 
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
+*References*
+I found the following tutorials useful in today's session:
+- https://forum.freecodecamp.org/t/javascript-string-prototype-indexof-index-of-explained-with-examples/15936
+- https://forum.freecodecamp.org/t/how-to-use-javascript-array-prototype-sort-javascript-sort-explained-with-examples/14306
+- https://www.freecodecamp.org/news/falsy-values-in-javascript/
+- https://www.bitdegree.org/learn/javascript-filter
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+- https://attacomsian.com/blog/javascript-convert-string-to-array
+- https://www.geeksforgeeks.org/javascript-sort-method/
+- https://www.w3schools.com/jsref/jsref_filter.asp
+
 ### Day 23: August 28, 2022
 
 **Today's Progress:** Today I read Chapter 6 'The Secret Life of Objects' in [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke and I completed a few challenges on [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 69% complete with this section.
@@ -39,7 +62,7 @@ Overall, while today's session was challenging it was a good reminder to be pati
 
 **Today's Progress:** Today I read through Chapter 5 'Higher-Order Functions' of [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke. This chapter focused on using *abstraction* to write simpler, easy-to-read programs/scripts. Below are my notes from today's reading.
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
 - "'There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.' - C.A.R. Hoare, 1980 ACM Turing Award Lecture"
 - "Functions that operate on other functions, either by taking them as arguments or by returning them, are called *higher-order functions*. ... Higher-order functions allow us to abstract over *actions*, not just values."
 - "The `map` method transforms an array by applying a function to all of its elements and building a new array from the returned values. The new array will have the same length as the input array, but its content will have been *mapped* to a new form by the function."
@@ -118,7 +141,7 @@ As usual, to help stay focused I listened to the Battlestar Galactica song [*Pre
 
 **Today's Progress:** Today I completed the second half of the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) section on  the JavaScript course from freeCodeCamp. Next, I'll be moving on to 'Basic Algorithm Scripting'. Today's challenges focused on interacting with nested arrays and objects. Below are my notes and reflection from today's session.
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
  - "`indexOf()` takes an element as a parameter, and when called, it returns the position, or index, of that element, or -1 if the element does not exist on the array."
  - "JavaScript offers several built in methods that each iterate over arrays in slightly different ways to achieve different results (such as `every()`, `forEach()`, `map()`, etc.), however the technique which is most flexible and offers us the greatest amount of control is a simple `for` loop."
  - "At their most basic, objects are just collections of *key-value* pairs. In other words, they are pieces of data (*values*) mapped to unique identifiers called properties (*keys*)."
@@ -141,7 +164,7 @@ I'm not sure I'd always take this approach (sitting for an hour with only a smal
 
 **Today's Progress:** Today I started the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) of freeCodeCamp's course on JavaScript. Currently I am 45% complete. Today's challenges focused on mutating arrays using the methods `push()`, `unshift()`, `pop()`, `shift()`, `splice()`, `slice()`, and using the spread operator (`...`). Here are my notes from today's session:
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
  - Arrays have a length property which can be accessed with the syntax `Array.length`
  - "**The fundamental feature of any data structure is, of course, the ability to not only store data, but to be able to retrieve that data on command.**"
  - In JavaScript, arrays are indexed starting at zero (`0`). Item within arrays can be accessed using *bracket* `[]` notation, for example `array[0]` accesses the first item in the array called `array`. Often, we will assign an element of an array to a variable for easy access (i.e., `element = array[0]`). We can also re-assign (i.e., replace) elements within an array using the bracket notation: `array[1] = "new element";` will re-assign the second element with the new string `"new element"`.
@@ -171,7 +194,7 @@ Rest Day.
 
 **Today's Progress:** Today I finished the final challenges for the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section on freeCodeCamp AND I was able to complete the 12 challenges for the [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging). Here are my notes from today's session:
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
 - "You can search and replace text in a string using `.replace()` on a string. The inputs for `.replace()` is first the regex pattern you want to search for. The second parameter is the string to replace the match or a function to do something."
 - Firefox and Chrome have DevTools to help with debugging JavaScript
 - The `console.log()` method can be strategically placed at points within in your code so you know what's happening as the program is being run. This helps with knowing where to look when something goes wrong.
@@ -186,7 +209,7 @@ Rest Day.
 
 **Today's Progress:** Today I worked on the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (93% done so far). The main focuses of the challenges included different combinations of matching (e.g., matching everything, everything but numbers, everything but letters. etc.), positive and negative lookaheads, and checking for mixed groupings. Here are my notes from today's session:
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
 - "You can search for whitespace using `\s`, which is a lowercase `s`. This pattern not only matches whitespace, but also carriage return, tab, form feed, and new line characters."
 - "Search for non-whitespace using `\S`, which is an uppercase `s`. This pattern will **not** match whitespace, carriage return, tab, form feed, and new line characters."
 - "Quantity specifiers are used with curly brackets (`{` and `}`). You put two numbers between the curly brackets - for the lower and upper number of patterns. For example, to match only the letter a appearing between `3` and `5` times in the string `ah`, your regex would be `/a{3,5}h/`."
@@ -202,7 +225,7 @@ Rest Day.
 
 **Today's Progress:** Today I worked on the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (61% done so far). Today's challenges were all focused on using regular expressions to match strings of characters. Here are my notes from today's session:
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
 - You can use a flag to match different cases of regexes. For example, `/apple/i` will match all cases of the string 'apple' such as apple, Apple, aPPle, etc.
 - "You can also extract the actual matches you found with the `.match()` method."
 - "To search or extract a pattern more than once, you can use the global search flag: `g`"
@@ -241,7 +264,7 @@ Rest day.
 
 **Today's Progress:** Today I COMPLETED the [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) section of fCC's course 'JavaScript Algorithms and Data Structures' and started the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions) section (9% done so far). The ES6 section finished with challenges focused on module script, import/export, and promises. Here are my notes from today's session:
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
 - "*Template literals* allow you to create multi-line strings and to use string interpolation features to create strings." The are created using the following syntax: `${variable}` where `variable` is your desired output.
 - **ES5** uses the keyword `function` while in **ES6**, you can remove the `function` keyword and colon altogether when defining functions in objects.
 - "ES6 provides a new syntax to create objects, using the class keyword. It should be noted that the class syntax is just syntax, and not a full-fledged class-based implementation of an object-oriented paradigm, unlike in languages such as Java, Python, Ruby, etc."
@@ -270,7 +293,7 @@ Overall, I'm very satisfied with the progress I made today (especially since I c
 
 I also read through Chapter 3 'Functions' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marjin Haverbeke.
 
-*Quotes & Key Ideas*:
+*Quotes & Key Ideas:*
 
 `let` vs. `const`:
 - "When you declare a variable with the `let` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression"
