@@ -9,11 +9,12 @@ For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/word
 
 Overall, I'm satisfied with my progress today. I would have liked to finish the section completely (only one challenge left!), but I'm too tired from the work day.
 
-For music today, I drifted away from *Battlestar Galactica* and listened to [Mozart's Piano Concerto No. 23](https://youtu.be/BMYjGkgzinU) on repeat. 
+For music today, I drifted away from *Battlestar Galactica* and listened to [Mozart's Piano Concerto No. 23](https://youtu.be/BMYjGkgzinU) on repeat.
 
 **Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
 *References*
+
 I found the following tutorials useful in today's session:
 - https://forum.freecodecamp.org/t/javascript-string-prototype-indexof-index-of-explained-with-examples/15936
 - https://forum.freecodecamp.org/t/how-to-use-javascript-array-prototype-sort-javascript-sort-explained-with-examples/14306
