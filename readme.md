@@ -1,6 +1,42 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 25: August 30, 2022
+
+**Today's Progress:** Today I completed the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp and started the [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming) section. I'm currently 19% done.
+
+*Quotes & Key Ideas:*
+- Similar to real-life objects, *objects* in JavaScript contain properties and values. For example:
+```
+let dog = {
+  name: "Spot",
+  numLegs = 4
+};
+```
+- "Objects can have a special type of property, called a method. Methods are properties that are functions. This adds different behavior to an object."
+- The `this` keyword is used to refer to the name of the object. For example:
+```
+let duck = {
+  name: "Aflac",
+  numLegs: 2,
+  sayName: function() {return "The name of this duck is " + this.name + ".";}
+};
+```
+- "*Constructors* are functions that create new objects. They define properties and behaviors that will belong to the new object. Think of them as a blueprint for the creation of new objects."
+- "Constructors follow a few conventions:
+
+    - Constructors are defined with a capitalized name to distinguish them from other functions that are not `constructors`.
+    - Constructors use the keyword `this` to set properties of the object they will create. Inside the constructor, `this` refers to the new object it will create.
+    - Constructors define properties and behaviors instead of returning a value as other functions might."
+
+**Thoughts:** I'm very delighted that I completed the last challenge in the Basic Algorithm Scripting section. Those challenges were difficult, but worth it. It felt good to put into practice what I've been learning so far.
+
+I've only just begun the Object Oriented Programming section, but so far it's going well. I'm especially enjoying seeing how things like *constructors*, and the `this` keyword is put into use. Previously, while reading *Eloquent JavaScript* I struggled to understand these concepts. I won't say I fully understand them now, but I'm getting there.
+
+In addition to programming, I also took some time to connect with others via Discord. This is a part of my programming journey that I think I've neglected and would like to dedicate more time to. Overall, I'm satisfied with today's study session. As with yesterday's session, I stuck with the [Mozart's Piano Concerto No. 23](https://youtu.be/BMYjGkgzinU) on repeat to stay focus.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 24: August 29, 2022
 
 **Today's Progress:** I completed challenges on the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp. I'm currently 94% complete with this section. The challenges focused on using loops, indexing, string conversion, and other concepts learned up until this point.
