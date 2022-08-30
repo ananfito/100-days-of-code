@@ -29,6 +29,12 @@ let duck = {
     - Constructors use the keyword `this` to set properties of the object they will create. Inside the constructor, `this` refers to the new object it will create.
     - Constructors define properties and behaviors instead of returning a value as other functions might."
 
+*References:*
+
+I found the following tutorials/guides useful in today's session:
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
 **Thoughts:** I'm very delighted that I completed the last challenge in the Basic Algorithm Scripting section. Those challenges were difficult, but worth it. It felt good to put into practice what I've been learning so far.
 
 I've only just begun the Object Oriented Programming section, but so far it's going well. I'm especially enjoying seeing how things like *constructors*, and the `this` keyword is put into use. Previously, while reading *Eloquent JavaScript* I struggled to understand these concepts. I won't say I fully understand them now, but I'm getting there.
