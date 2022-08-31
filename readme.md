@@ -1,6 +1,94 @@
 # 100 Days Of Code - Log
 For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
 
+### Day 26: August 31, 2022
+
+**Today's Progress:** Today I finished the [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming) section of the JavaScript course from freeCodeCamp. Today's challenges focused on how `constructors`, `prototypes`, *subtypes*, *supertypes*, *inheritance*, and *mixins*.
+
+*Quotes & Key Ideas:*
+- When using a *constructor* the `new` operator is needed when calling the constructor such as in the example below. This will create a new object, `blueBird` with the properties `blueBird.name`, etc. It can then be accessed and modified just like any other property within an object.  
+```
+function Bird() {
+  this.name = "Albert";
+  this.color  = "blue";
+  this.numLegs = 2;
+}
+
+let blueBird = new Bird();
+```
+- To make *constructors* more flexible we can design them to accept variables as parameters so that it's easy to construct the objects with the appropriate/desired properties. For example:
+```
+function Bird(name, color) {
+  this.name = name;
+  this.color = color;
+  this.numLegs = 2;
+}
+
+let cardinal = new Bird("Bruce", "red");
+```
+- "Anytime a constructor function creates a new object, that object is said to be an *instance* of its constructor. JavaScript gives a convenient way to verify this with the `instanceof` operator. `instanceof` allows you to compare an object to a constructor, returning `true` or `false` based on whether or not that object was created with the constructor."
+- "Properties in the `prototype` are shared among ALL instances of" the constructor object and "Since all instances automatically have the properties on the `prototype`, think of a `prototype` as a "recipe" for creating objects." For example, `Bird.prototype.numLegs = 2;` will give the property `numLegs` the value of `2` for all objects created using the `Bird` constructor.
+- "*Own properties* are defined directly on the object instance itself. And prototype properties are defined on the `prototype`." For example:
+```
+function Bird(name) {
+  this.name = name;  //own property
+}
+
+Bird.prototype.numLegs = 2; // prototype property
+
+let duck = new Bird("Donald");
+```
+- "There is one crucial side effect of manually setting the prototype to a new object. It erases the `constructor` property! ... To fix this, whenever a prototype is manually set to a new object, remember to define the `constructor` property:
+```
+Bird.prototype = {
+  constructor: Bird,
+  numLegs: 2,
+  eat: function() {
+    console.log("nom nom nom");
+  },
+  describe: function() {
+    console.log("My name is " + this.name);
+  }
+};
+```
+- "Just like people inherit genes from their parents, an object inherits its `prototype` directly from the constructor function that created it."
+- The `isPrototypeOf` method will show the relationship of the object and the constructor that created it
+- "All objects in JavaScript (with a few exceptions) have a `prototype`. Also, an object’s `prototype` itself is an object"
+- The principle of *Don't Repeat Yourself* (DRY) is used in programming because repetitive programs become harder to modify when changes are needed. This leads to more work, which can also lead to more errors. We can use inheritance to help reduce repetition in programs.
+- "`Object.create(obj)` creates a new object, and sets `obj` as the new object's `prototype`". For example, `let duck = Object.create(Animal.prototype);` will create `duck` as an *object* with the prototype based on the `Animal` constructor.
+- `Bird.prototype = Object.create(Animal.prototype);
+` will create a *subtype* based on the *supertype* `Animal` in which `Bird` will have all of the properties defined by the `Animal` constructor.
+- "When an object inherits its `prototype` from another object, it also inherits the supertype's constructor property."
+- "A constructor function that inherits its `prototype` object from a supertype constructor function can still have its own methods in addition to inherited methods."
+- Inheritance works great for objects that are related, but not-so-great for objects that are not related. "For unrelated objects, it's better to use *mixins*. A mixin allows other objects to use a collection of functions." For example, both a `Bird` and an `Airplane` can fly, but a `Bird` is not an `Airplane` and vice versa. So we can create the `flyMixin` to take any object and give it the `fly` method:
+```
+let flyMixin = function(obj) {
+  obj.fly = function() {
+    console.log("Flying, wooosh!");
+  }
+};
+```
+- "In JavaScript, a function always has access to the context in which it was created. This is called `closure`."
+- **Immediately Invoked Function Expression (IIFE):**
+"A common pattern in JavaScript is to execute a function as soon as it is declared:
+```
+(function () {
+  console.log("Chirp, chirp!");
+})();
+```
+This is an anonymous function expression that executes right away, and outputs `Chirp, chirp!` immediately.
+
+Note that the function has no name and is not stored in a variable. The two parentheses `()` at the end of the function expression cause it to be immediately executed or invoked. This pattern is known as an *immediately invoked function expression or IIFE*."
+- "An immediately invoked function expression (IIFE) is often used to group related functionality into a single object or *module*."
+
+**Thoughts:** Most of the challenges were really easy because they involved copying or rewriting code from the example. Which is okay since the last section (Algorithm Scripting) was rather difficult, but I was hoping for more of challenge than just changing a few words in lines of code. Perhaps that will come in the next section (Functional Programming).
+
+That said, I was delighted to see how `constructors` and `prototypes` work in practice. Previously, when I read about them in *Eloquent JavaScript* I found them a bit confusing on a conceptual level, but I think they're starting to make a bit more sense.
+
+Lastly, I'm feeling especially grateful to my partner who's been very supportive during this programming journey. On this particular evening, he prepared dinner which gave me more time to study. (-:
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
+
 ### Day 25: August 30, 2022
 
 **Today's Progress:** Today I completed the [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) section of the JavaScript course from freeCodeCamp and started the [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming) section. I'm currently 19% done.
