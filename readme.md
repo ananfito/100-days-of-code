@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
-For regular updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or visit my blog on [Medium](https://anthonynanfito.medium.com/) to read the 'pretty' version this log.
+For more updates follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/).
+
+### Day 28: September 02, 2022
+
+Rest day.
+
+### Day 27: September 01, 2022
+
+**Today's Progress:** Today I started the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section freeCodeCamp's JavaScript course. I've completed 4% so far.
+
+*Quotes & Key Ideas:*
+- "Functional programming is a style of programming where solutions are simple, isolated functions, without any side effects outside of the function scope: `INPUT -> PROCESS -> OUTPUT`"
+
+**Thoughts:** Today's session was short. I only got through one challenge because I had a headache which later developed into a migraine attack so I never went back later in the day to continue studying.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
 ### Day 26: August 31, 2022
 
