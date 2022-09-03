@@ -35,7 +35,7 @@ Overall, I'm glad I put some study time in, but I think I need to walk away from
 
 **Thoughts:** I think this is something that I needed. My earlier frustration was due both to fatigue as well as having things explained in isolation. This Tetris tutorial helped me see certain JavaScript features and concepts in action. Also, I like how at certain points Ania explains what the concept is by giving a definition and then demostrates how it'll be used in the app.
 
-I'm not yet finished with the app (I left off at 45m30s), but you view my progress in the link below. I am excited about this tutorial project because Tetris is one of my favorite games to play. Watching the tutorial based on something I'm already familair with is helping me line of sets of knowledge in my brain and making the learning more fun.
+I'm not yet finished with the app (I left off at 45m30s), but you can view my progress in the link below. I am excited about this tutorial project because Tetris is one of my favorite games to play. Watching the tutorial based on something I'm already familair with is helping me line of sets of knowledge in my brain and making the learning more fun.
 
 **Link to work:** https://github.com/ananfito/basic-tetris
 
