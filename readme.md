@@ -3,7 +3,7 @@ For more updates on my programming journey follow me on Twitter [@wordsbyfifi](h
 
 ### Day 29: September 03, 2022
 
-**Today's Progress:** Today I continued completing challenges on the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section freeCodeCamp's JavaScript course (33% complete so far) and I read Chapter 7 'Proejct: A Robot' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke.
+**Today's Progress:** Today I continued completing challenges on the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section freeCodeCamp's JavaScript course (33% complete so far) and I read Chapter 7 'Project: A Robot' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke. The challenges on fCC focused on functional programming and the chapter from *Eloquent JavaScript* featured a description of a project.
 
 *Quotes & Key Ideas:*
 
