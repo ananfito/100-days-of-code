@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
-For more updates on my programming journey follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or [Medium](https://anthonynanfito.medium.com/).
+For more updates on my programming journey follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/).
+
+### Day 29: September 03, 2022
+
+**Today's Progress:** Today I continued completing challenges on the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section freeCodeCamp's JavaScript course (33% complete so far) and I read Chapter 7 'Proejct: A Robot' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke.
+
+*Quotes & Key Ideas:*
+
+Notes from freeCodeCamp:
+- "*Callbacks* are the functions that are slipped or passed into another function to decide the invocation of that function. You may have seen them passed to other methods, for example in filter, the callback function tells JavaScript the criteria for how to `filter` an array."
+- "Functions that can be assigned to a variable, passed into another function, or returned from another function just like any other normal value, are called *first class* functions. In JavaScript, all functions are first class functions."
+- "The functions that take a function as an argument, or return a function as a return value, are called *higher order* functions."
+- "When functions are passed in to or returned from another function, then those functions which were passed in or returned can be called a *lambda*."
+- "One of the core principles of functional programming is to not change things. Changes lead to bugs. It's easier to prevent bugs knowing that your functions don't change anything, including the function arguments or any global variable."
+- "in functional programming, changing or altering things is called *mutation*, and the outcome is called a *side effect*. A function, ideally, should be a *pure function*, meaning that it does not cause any side effects."
+- "Another principle of functional programming is to always declare your dependencies explicitly. This means if a function depends on a variable or object being present, then pass that variable or object directly into the function as an argument."
+- "The `map` method iterates over each item in an array and returns a new array containing the results of calling the callback function on each element. It does this without mutating the original array."
+- "`filter` calls a function on each element of an array and returns a new array containing only the elements for which that function returns `true`."
+
+Notes from *Eloquent JavaScript*:
+- "The fact that something sounds like an object does not automatically mean that it should be an object in your program. Reflexively writing classes for every concept in your application tends to leave you with a collection of interconnected objects that each have their own internal, changing state. Such programs are often hard to understand and thus easy to break"
+- "Data structures that don’t change are called *immutable* or *persistent*"
+
+**Thoughts:** Today I'm feeling a little frustrated. I'm not sure if it's because I'm tired or if I'm not fully understanding the concepts of JavaScript. While reading *Eloquent JavaScript* I felt completely lost the entire time (and will probably need to re-read the chapter).
+
+Later, while working on the challenges on fCC I had to look up countless tutorials, read (and re-read) the hints, and look up the solutions. And I still felt lost. Some solutions were so simple I didn't understand why they were a "challenge" at all, and others felt like they weren't placed appropriately - like the needed more explaining and scaffolding or should have been broken up into smaller steps.
+
+Overall, I'm glad I put some study time in, but I think I need to walk away from the keyboard and try again tomorrow.
+
+**Link to work:** For my progress visit the timeline on my [freeCodeCamp Profile](https://www.freecodecamp.org/ananfito).
 
 ### Day 28: September 02, 2022
 
