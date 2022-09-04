@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-For more updates on my programming journey follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/).
+For more updates on my programming journey, you can follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/). For more examples of my work, check out [my porfolio](https://ananfito.github.io/).
 
 ### Day 30: September 04, 2022
 
