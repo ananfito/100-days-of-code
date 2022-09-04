@@ -3,7 +3,7 @@ For more updates on my programming journey follow me on Twitter [@wordsbyfifi](h
 
 ### Day 30: September 04, 2022
 
-**Today's Progress:** Today I continued working building a basic Tetris game using JavaScript. I've been following the tutorial ["Code Tetris: JavaScript Tutorial for Beginners"](https://youtu.be/rAUn1Lom6dw) taught by Ania Kubow. Today I added functions to freeze, move left, and move right.
+**Today's Progress:** Today I continued working building a basic Tetris game using JavaScript. I've been following the tutorial ["Code Tetris: JavaScript Tutorial for Beginners"](https://youtu.be/rAUn1Lom6dw) taught by Ania Kubow. Today I added functions for `freeze`, `moveLeft`, and `moveRight`.
 
 **Thoughts:** I'm really enjoying this project because it's showing me how various JS concepts were in action. A lot of the challenges on fCC and in other places are often done in isolation so it's difficult for a beginner to understand how they work.
 
