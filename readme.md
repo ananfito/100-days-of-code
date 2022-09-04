@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 For more updates on my programming journey follow me on Twitter [@wordsbyfifi](https://twitter.com/wordsbyfifi/) or on [Medium](https://anthonynanfito.medium.com/).
 
+### Day 30: September 04, 2022
+
+**Today's Progress:** Today I continued working building a basic Tetris game using JavaScript. I've been following the tutorial ["Code Tetris: JavaScript Tutorial for Beginners"](https://youtu.be/rAUn1Lom6dw) taught by Ania Kubow. Today I added functions to freeze, move left, and move right.
+
+**Thoughts:** I'm really enjoying this project because it's showing me how various JS concepts were in action. A lot of the challenges on fCC and in other places are often done in isolation so it's difficult for a beginner to understand how they work.
+
+Also, I've noticed that a lot of examples will use a mathematical example (like creating a loop that adds 1 each time) but don't always use a more practical example. Don't get me wrong, as a mathematics teacher I enjoy seeing how the math works out, but more often than not a lot of these concepts will be used to create muliple `div` boxes for your grid in Tetris (just as a more concrete example).
+
+Overall, I'm happy with the progress I made. And I'm happy I decide to look for extra resources to learn these concepts. When I got frustrated yesterday there was a small part of me that wanted to give up, but I'm grateful I persevered.
+
+**Link to work:** https://github.com/ananfito/basic-tetris
+
 ### Day 29: September 03, 2022
 
 **Today's Progress:** Today I continued completing challenges on the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section freeCodeCamp's JavaScript course (33% complete so far) and I read Chapter 7 'Project: A Robot' from [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke. The challenges on fCC focused on functional programming and the chapter from *Eloquent JavaScript* featured a description of a project.
