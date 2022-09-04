@@ -9,7 +9,7 @@ Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, c
 
 Also, I've noticed that a lot of examples will use a mathematical example (like creating a loop that adds 1 each time) but don't always use a more practical example. Don't get me wrong, as a mathematics teacher I enjoy seeing how the math works out, but more often than not a lot of these concepts will be used to create muliple `div` boxes for your grid in Tetris (just as a more concrete example).
 
-Overall, I'm happy with the progress I made. And I'm happy I decide to look for extra resources to learn these concepts. When I got frustrated yesterday there was a small part of me that wanted to give up, but I'm grateful I persevered.
+Overall, I'm happy with the progress I made. And I'm happy I decide to look for extra resources to learn these concepts. When I got frustrated yesterday there was a small part of me that wanted to give up, but I'm grateful I persevered. I'm also glad I reached out for help on the freeCodeCamp Discord server when I got stuck.
 
 **Link to work:** https://github.com/ananfito/basic-tetris
 
