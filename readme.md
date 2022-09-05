@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Medium](https://anthonynanfito.medium.com/), or check out [my porfolio](https://ananfito.github.io/). Thanks for stopping by. Happy Coding!
 
+### Day 31: September 05, 2022
+
+**Today's Progress:** I continued working on the Tetris game, based on the [tutorial by Ania Kubow](https://github.com/kubowania/Tetris-Basic). Today I updated the `freeze()` function, added/reorganized the `div` on the HTML page to move the display box, and I created the `displayShape()` function.
+
+**Thoughts:** Overall, I'm able to follow along with this tutorial and it's nice to see how things work in a practical setting, BUT for some reason my code doesn't do what hers does in the video. I suspect there's some sort of formatting error in mine, but I can't find it (or perhaps a typo).
+
+Yesterday, I had a similar issue and asking for help solved the issue (it was great to have another set of eyes look things over). I plan to do the same for the issue I'm having now. I have to admit it's a little frustrating because I've checked (and rechecked) my code and as far as I can see it matches her instructions as well as what she has in the repo. But this is why we have forums, study buddies, Discord servers, and colleagues to poke when we're stuck.
+
+**Link to work:** https://github.com/ananfito/basic-tetris
+
 ### Day 30: September 04, 2022
 
 **Today's Progress:** Today I continued working building a basic Tetris game using JavaScript. I've been following the tutorial ["Code Tetris: JavaScript Tutorial for Beginners"](https://youtu.be/rAUn1Lom6dw) taught by Ania Kubow. Today I added functions for `freeze`, `moveLeft`, and `moveRight`.
