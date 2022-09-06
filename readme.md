@@ -3,7 +3,15 @@ Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, c
 
 ### Day 32: September 06, 2022
 
-Rest day.
+**Today's Progress:** I continued working on the Tetris game, based on the [tutorial by Ania Kubow](https://github.com/kubowania/Tetris-Basic). I attempted to replace the `keyCode` with `key` in the `control()` function (since `keyCode` is deprecated) using the `switch` method (instead of an `if` statement), but then the `control()` function stopped working. I'll need follow-up on that.
+
+I also (re)attempted to find the error in the section for the up-next Tetromino from yesterday. Specifically, it won't display the up-next Tetromino in the mini-grid on the rightside of the page. I re-watched that [segment](https://youtu.be/rAUn1Lom6dw?t=3938) of the tutorial and compared my code with [hers](https://github.com/kubowania/Tetris-Basic/blob/master/app.js) (line-by-line). Still not sure what's wrong with it. Now I'm waiting for feedback from others.
+
+**Thoughts:** I feel like I'm teetering between frustration and insanity. Okay, that's probably an over exaggeration. Those things are indeed true, but in a good way I think. Obviously trying to figure out what's wrong with code that doesn't run correctly is all part of the job, but I know eventually there will be some solution found. And my job is to keep searching and enjoy the search (like a quest). At least, that's the mindset I'm adopting.
+
+In other words, I am frustrated but in a good way. I'm enjoying the process of trying to figure out why it doesn't work because it's forcing me to learn more deeply about various JS methods, access resources (like documentation and asking for help on forums), and (perhaps most importantly) keep going. It's easy to want to give up and stop, but I know that nothing worth having is given without effort.
+
+**Link to work:** https://github.com/ananfito/basic-tetris
 
 ### Day 31: September 05, 2022
 
