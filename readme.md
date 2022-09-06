@@ -13,6 +13,8 @@ In other words, I am frustrated but in a good way. I'm enjoying the process of t
 
 **Link to work:** https://github.com/ananfito/basic-tetris
 
+**ADDENDUM:** Got a response to my request for help on the [freeCodeCamp Discord server](https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/) and fixed the issue. Turns out I did indeed have a typo in the `displayShape()` function (misspelled `upNextTetrominoes`) and I forgot do add the `.mini-grid div` to the CSS file. With those fixed, it works! Next, I'll continue with the tutorial and try to find a solution to the `keyCode` issue I was having.
+
 ### Day 31: September 05, 2022
 
 **Today's Progress:** I continued working on the Tetris game, based on the [tutorial by Ania Kubow](https://github.com/kubowania/Tetris-Basic). Today I updated the `freeze()` function, added/reorganized the `div` on the HTML page to move the display box, and I created the `displayShape()` function.
