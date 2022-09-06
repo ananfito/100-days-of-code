@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Medium](https://anthonynanfito.medium.com/), or check out [my porfolio](https://ananfito.github.io/). Thanks for stopping by. Happy Coding!
 
+### Day 32: September 06, 2022
+
+Rest day.
+
 ### Day 31: September 05, 2022
 
 **Today's Progress:** I continued working on the Tetris game, based on the [tutorial by Ania Kubow](https://github.com/kubowania/Tetris-Basic). Today I updated the `freeze()` function, added/reorganized the `div` on the HTML page to move the display box, and I created the `displayShape()` function.
