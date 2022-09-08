@@ -1,11 +1,29 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Medium](https://anthonynanfito.medium.com/), or check out [my porfolio](https://ananfito.github.io/). Thanks for stopping by. Happy Coding!
 
+### Day 34: September 08, 2022
+
+**Today's Progress:** I completed the Tetris game, based on the [tutorial by Ania Kubow](https://github.com/kubowania/Tetris-Basic). I added added `addScore()` and `gameOver()` functions, and gave the Tetrominoes some color.
+
+*Key Ideas:*
+- `.concat()` method is used to combine/merge arrays. For example, `tetrominoes.concat(shapes)` will combine the arrays `tetrominoes` and `shapes` into a single array
+- `.appendChild()` is method that allows you to append elements to an existing element.
+
+**Thoughts:** When I started this tutorial last weekend, I thought it was going to be relatively easy - and for the most part it was - but it wasn't free of frustration. Overall I enjoyed this project because it gave me a review of some JavaScript methods and concepts that I hadn't quite grasped or internalized. It also provided more practical examples of how those methods/concepts work (as opposed to explanations in isolated examples).
+
+The next steps for this project are to add some stylization to it or add levels. I'm not sure how I'm going to style it, but I'm looking forward to this because it'll help keep my HTML/CSS skills fresh as I continue to learning JavaScript.
+
+One of the repeat frustrations I was having during this project was encountering typographical/syntactical errors in my code. When this occurred I had to read the each line of code and/or ask someone else to look at it in order to find where the error was. Today during my session I discovered a way to help prevent this (something that seems obvious in hindsight). 
+
+If I have the inspector open to the Console in the web browser it will identify if I have errors like missing `;` or `{}`. This saved me a lot of time when something didn't work because I was able to identify more easily what's missing and didn't need to ask for help to fix a simple typographical/syntactical mistake.
+
+**Link to work:** https://github.com/ananfito/basic-tetris
+
 ### Day 33: September 07, 2022
 
 **Today's Progress:** I continued working on the Tetris game, based on the [tutorial by Ania Kubow](https://github.com/kubowania/Tetris-Basic). I created the `startBtn` function with enables to the user to Start/Pause the game.
 
-*Key Idea:*
+*Key Ideas:*
 - When using `itemArray.splice(startIndex, deleteCount)` if the `deleteCount` is set to `0` then nothing is deleted from the array. For example, `planets.splice(2, 0, 'Pluto', 'Uranus')` will add the strings `'Pluto'` and `'Uranus'` at index `2` of the `planets` array.
     - If the `deleteCount` is not included, then `splice()` will remove everything after the `startIndex`
 
