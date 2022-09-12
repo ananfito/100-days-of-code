@@ -1,6 +1,40 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Medium](https://anthonynanfito.medium.com/), or check out [my porfolio](https://ananfito.github.io/). Thanks for stopping by. Happy Coding!
 
+### Day 38: September 12, 2022
+
+**Today's Progress:** I continued working on the Basic Tetris game I created from [Ania Kubow's tutorial](https://github.com/kubowania/Tetris-Basic). I managed to replace the `keyCode` (which is now deprecated) with `key` in a `switch` statement (instead of `if`). I also started stylizing the HTML page to make the game look better. For styling, I've added some text to describe the instructions for how the game play works and added a background. I also added a footer referencing the original GitHub files.
+
+**Thoughts:** I'm happy with how this game turned out and what I learned during the process, but there are still a few glitches I need to figure out. First, when a Tetrominio with a long side, like `L` or `l`, slides down to the bottom left corner a piece of it will hang over the edge. Not sure why it's doing this and only in this part. I've also noticed that when a new score is reached sometimes the incoming Tetromino will be stuck at the top but still moving down. That is, it leaves behind a latent image.
+
+My next steps are to finish styling the page and figure out those glitches. Probably time to ask for some help again.
+
+*References:*
+- This documentation was useful in figuring out how to get the `switch` function to work for the keyboard events: https://developer.mozilla.org/en-US/docs/Web/API/UI_Events/Keyboard_event_key_values#navigation_keys
+- This doc was helpful setting the origin and no-repeat for the background: https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin
+- This doc was helpful understanding the difference between `align-items` and `justify-content`: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container
+- This website was helpful for choosing HTML color codes: https://html-color.codes/
+
+**Link to work:**
+
+### Day 37: September 11, 2022
+
+**Today's Progress:** Today was a half-rest day for me; I am recovering from laryngitis so my primary goal has been to rest. I did not do any serious coding today, but I did create accounts on [Hashnode](https://hashnode.com/@ananfito) and [Dev](https://dev.to/ananfito) to explore the disucssions happening there. I also created a [codewars](https://www.codewars.com/users/ananfito) account to have another resource for learning.
+
+**Thoughts:** Even though I didn't code today I am glad I took the time to explore around the developer world. Previously, I've been blogging about my #100DaysOfCode experience via Medium, but after exploring Hashnode and Dev those might be better options since the community is more focused toward developers rather than general audience. I'm undecided if I'll officially move my (pseudo) tech blog over to one of those platforms, but it's something in the back of my mind because I do enjoy writing/blogging about my learning experience. For now, I want to continue to focus on developing my coding skills and connecting with other learners/developers.
+
+I created my account for codewars late in the evening so my brain wasn't at its optimal capacity, but I can see it's potential value as a resource. I managed to complete one kata and start another before running out of steam, but I did enjoy the challenge of having to put to use the concept I've been learning. I think this will be something I could use to keep my skills fresh.
+
+**Link to work:** https://www.codewars.com/users/ananfito/completed_solutions
+
+### Day 36: September 10, 2022
+
+Rest day.
+
+### Day 35: September 09, 2022
+
+Rest day.
+
 ### Day 34: September 08, 2022
 
 **Today's Progress:** I completed the Tetris game, based on the [tutorial by Ania Kubow](https://github.com/kubowania/Tetris-Basic). I added added `addScore()` and `gameOver()` functions, and gave the Tetrominoes some color.
@@ -13,7 +47,7 @@ Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, c
 
 The next steps for this project are to add some stylization to it or add levels. I'm not sure how I'm going to style it, but I'm looking forward to this because it'll help keep my HTML/CSS skills fresh as I continue to learning JavaScript.
 
-One of the repeat frustrations I was having during this project was encountering typographical/syntactical errors in my code. When this occurred I had to read the each line of code and/or ask someone else to look at it in order to find where the error was. Today during my session I discovered a way to help prevent this (something that seems obvious in hindsight). 
+One of the repeat frustrations I was having during this project was encountering typographical/syntactical errors in my code. When this occurred I had to read the each line of code and/or ask someone else to look at it in order to find where the error was. Today during my session I discovered a way to help prevent this (something that seems obvious in hindsight).
 
 If I have the inspector open to the Console in the web browser it will identify if I have errors like missing `;` or `{}`. This saved me a lot of time when something didn't work because I was able to identify more easily what's missing and didn't need to ask for help to fix a simple typographical/syntactical mistake.
 
