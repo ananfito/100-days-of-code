@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
-Welcome to my journal for the 100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Medium](https://anthonynanfito.medium.com/), or check out [my porfolio](https://ananfito.github.io/). Thanks for stopping by. Happy Coding!
+Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
+
+### Day 39: September 13, 2022
+
+**Today's Progress:** Since I've been at home recovering from laryngitis the past few days I've had some extra time on my heads to lounge around and code. Today I worked on updating [my portfolio website](https://ananfito.github.io/) to make it more accessible and I continued styling the Tetris app I made.
+
+For the portfolio, I added unique `id` tags to each of the sections as well as changed the color scheme to make it more accessible. According to accessiblewebe.com my new page has a [score](https://accessibleweb.com/website-accessibility-checker/?page_url=https%3A%2F%2Fananfito.github.io%2F) of 100/100.
+
+For the Tetris app, I added colors for the Tetriminoes and the background of the grid. There's still a minor glitch that I need to fix, but you can test out a live version of the game [here](https://ananfito.github.io/tetris).
+
+**Thoughts:** I'm really happy with what I worked on today. I found it easier to stay motivated since I was working on personal projects (I think I studied for over an hour today). I know I'll need to get back to the freeCodeCamp curriculum soon to get back to learning JavaScript, but I'm happy I took the time to play around with these projects.
+
+*References*
+- This doc was useful in figuring out how to override the parent color style for the header in the contact section of my portfolio: https://www.w3docs.com/snippets/css/how-to-override-css-styles.html
+- This doc was useful in learning how hide the scroll bar: https://codeberryschool.com/blog/en/how-to-disable-scrolling-in-html/
+- These two docs were useful in determining whether to use `border` or `outline` for the Tetromoines:
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/outline
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/border
+- This DEV log was useful in setting the baseline units for font-size on my portfolio site: https://dev.to/deltanboi/the-battle-of-the-units-px-vs-rem-vs-em-3ka8
+- This website was useful in choosing colors & getting their codes: https://html-color.codes/
+
+**Links to work:**
+- Portfolio site: https://ananfito.github.io/
+- Tetris App repo: https://github.com/ananfito/basic-tetris
 
 ### Day 38: September 12, 2022
 
@@ -15,7 +38,7 @@ My next steps are to finish styling the page and figure out those glitches. Prob
 - This doc was helpful understanding the difference between `align-items` and `justify-content`: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container
 - This website was helpful for choosing HTML color codes: https://html-color.codes/
 
-**Link to work:**
+**Link to work:** https://github.com/ananfito/basic-tetris
 
 ### Day 37: September 11, 2022
 
