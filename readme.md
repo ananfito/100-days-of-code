@@ -12,6 +12,7 @@ Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, 
 - Completed some challenges on freeCodeCamp. Currently 42% complete with the [Function Programing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section.
 
 *Quotes & Key Ideas:*
+
 Ruby on Rails vs. Node.js:
 - Ruby on Rails is great for larger, dynamic projects like user interaction and/or dashboard interactivity as opposed to static websites or blogs (a different resource would be better for those)
 - Ruby on Rails vs. Node.js
@@ -43,6 +44,7 @@ The challenges on freeCodeCamp weren't too difficult today. I think I'm getting 
 Overall, I'm really satisfied with the effort I put in today and I wish I could do this much everyday, but today was the last day of my medical leave and I'll be returning to work tomorrow. On that note, my laryngitis is mostly cleared up - which is great because I need to be able talk for my job as a teacher and I've got a haiku podcast to record this weekend.
 
 *References:*
+
 The following is a list of references I found useful in my studies today.
 - The videos from my fall down a YouTube hole after looking up what Ruby on Rails is. Enter if you dare ...
   - [What is Ruby on Rails used for?](https://youtu.be/-3LUZrT-ISY)
