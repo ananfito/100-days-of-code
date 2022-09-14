@@ -1,6 +1,64 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
 
+### Day 40: September 14, 2022
+
+**Today's Progress:** I did A LOT today. Here's a list of what I accomplished:
+- Outlined my study path for learning web development
+- Fell down a YouTube hole and learned about Ruby on Rails vs. JavaScript, and back-end web development
+- Listened to an [episode](https://www.codenewbie.org/podcast/what-is-the-metaverse-and-what-does-it-look-like-to-build-for-it-439f8caf-22e6-478a-bb2b-6236cd293fdb) of CodeNewbie podcast featuring an interview with [Alison Quaglia](https://github.com/hylobates-lar) and she offered great advice for self-taught learners (such as myself)
+- Finalized the style & info for the Tetris app
+- Minor updates to my portfolio site (mostly changed a few titles and added some links)
+- Completed some challenges on freeCodeCamp. Currently 42% complete with the [Function Programing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section.
+
+*Quotes & Key Ideas:*
+Ruby on Rails vs. Node.js:
+- Ruby on Rails is great for larger, dynamic projects like user interaction and/or dashboard interactivity as opposed to static websites or blogs (a different resource would be better for those)
+- Ruby on Rails vs. Node.js
+  - Ruby on Rails
+    - Pros: Straightforward to learn, secure, speeds up development (great for small budget projects), big community
+    - Cons: Not right fit for complex apps, slow (really only visible with large-scale projects), not scalable enough
+  - Node.js
+    - Pros: fast (great for streaming services), scalable, greater capabilities, multi-purpose (web, desktop, mobile)
+    - Cons: API changes continually, not good for CPU intensive apps
+  - Ultimately, you (as the developer) need to use the tool(s) you need to develop your apps fast and efficiently
+
+Notes from freeCodeCamp challenges:
+- "`filter` calls a function on each element of an array and returns a new array containing only the elements for which that function returns `true`"
+  - "The callback function accepts three arguments. The first argument is the current element being processed. The second is the index of that element and the third is the array upon which the `filter` method was called."
+- "The `slice` method returns a copy of certain elements of an array. It can take two arguments, the first gives the index of where to begin the slice, the second is the index for where to end the slice (and it's non-inclusive) ... The `slice` method does not mutate the original array, but returns a new one."
+
+**Thoughts:** I had a really productive day learning all about programming. I enjoyed listening to the Code Newbie podcast episode. I liked Alison's advice about getting connected with others and joining a community to help accelerate your programming journey and keep yourself motivated (this is one of the reasons I've joined Hashnode, DEV, and Discord). Recently, this is actually something I've actively been working on because up until this point it's been a bit of lonely journey for me and there's been many times where I've considered giving up (even though that's not what I want for my career change goals). But connecting with other learners and developers online is helping me stay motivated. Plus it's giving me additional resources to go to when I need help.
+
+The YouTube hole I fell down wasn't entirely unproductive. I did learn what Ruby on Rails and how it compares to Node.js. Previously, I had heard it mentioned but didn't know what it was. Now, I'm more familar with it. I might be interested in learning it at some point in the future, but for now I want to stay focus and consistent with continuing to study of JavaScript.
+
+I'm really glad I'm continuing to play around with my portfolio website. It's helping me keep up-to-date on my HTML/CSS skills. I do hope to create some more HTML/CSS projects in the future, but for now this a good one to tinker with. And I enjoy it so there's that.
+
+I'm happy with the design of the Tetris app, but I'm still struggling with a few things. First, I haven't figured out how to have the browser ignore the up arrow during game play. Right now, it will move the scroll bar up unless I've set it to `overflow: hidden` BUT this creates an issue of not having the viewport larger to see the footer.
+
+Second, if a vertical-like Tetromino (e.g., the `I` or `L` shaped Tetromino) falls down on the far left side of the grid it will go past the bottom edge instead of stopping. I've included in image on the [GitHub Repo](https://github.com/ananfito/basic-tetris#status) for this error. I've asked for help on this one and hopefully will get some guidance. Until then, I'll keep tinkering with it and looking for solutions. (If you're reading this and want to provide guidance, please reach out to me. Thank you.)
+
+The challenges on freeCodeCamp weren't too difficult today. I think I'm getting the hang of the `map()` and `filter()` methods (previously I was a bit confused on those), but (like all things) I could still use some more practice.
+
+Overall, I'm really satisfied with the effort I put in today and I wish I could do this much everyday, but today was the last day of my medical leave and I'll be returning to work tomorrow. On that note, my laryngitis is mostly cleared up - which is great because I need to be able talk for my job as a teacher and I've got a haiku podcast to record this weekend.
+
+*References:*
+The following is a list of references I found useful in my studies today.
+- The videos from my fall down a YouTube hole after looking up what Ruby on Rails is. Enter if you dare ...
+  - [What is Ruby on Rails used for?](https://youtu.be/-3LUZrT-ISY)
+  - [RUBY ON RAILS VS NODE.JS](https://youtu.be/lQmjdHybnHM)
+  - [Rails vs JavaScript: Which one should you use for your SaaS?](https://youtu.be/A1ICndiLCGY)
+  - [Why Linux Is Better For Programming](https://youtu.be/otDOHt_Jges)
+  - [Backend web development - a complete overview (2021)](https://youtu.be/XBu54nfzxAQ)
+- This video was helped me learn how setup GitHub pages for my GitHub Repo projects without having to copy files: [How to put an HTML website online (on the Internet) - 2022](https://youtu.be/p1QU3kLFPdg)
+- This [fCC blog post](https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/) was helpful for learning how to turn a string into a number
+- The following docummentation helped understand how to use the [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map), [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter), and [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) methods.
+
+**Links to work:**
+- Tetris app: https://github.com/ananfito/basic-tetris
+- Portfolio site: https://ananfito.github.io/
+- freeCodeCamp profile: https://www.freecodecamp.org/ananfito
+
 ### Day 39: September 13, 2022
 
 **Today's Progress:** Since I've been at home recovering from laryngitis the past few days I've had some extra time on my heads to lounge around and code. Today I worked on updating [my portfolio website](https://ananfito.github.io/) to make it more accessible and I continued styling the Tetris app I made.
