@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
 
+### Day 41: September 15, 2022
+
+**Today's Progress:** I completed a few more challenges on freeCodeCamp's [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) course. I'm currently 58% done the Functional Programming section.
+
+*Quotes & Key Ideas:*
+
+- The `splice` method is used to remove elements from an array. It takes two arguments: the first is the index of where to start removing items and the second is the number of items to remove (if the second isn't provided, then default is to remove items to the end). NOTE: `splice` mutates the original array
+- The `concat` method is used to join items end to end. For arrays, it will not mutate the original arrays but return a new array with the combined items.
+- "Functional programming is all about creating and using non-mutating functions."
+- `concat` vs. `push`: `concat` does not mutate the original array while `push` does. This means if we want to add elements to an array without mutating it `concat` is a better choice
+
+**Thoughts:** I only made a through a few challenges today, but I'm happy I made a little bit of progress especially considering it was my first day back at work after being sick. Today's challenges weren't too difficult. I had seen some of these methods in previous challenges, but in a different context. I'm enjoying being able to see there different use cases - I think it's helping me gain a better understanding of them. 
+
+**Link to work:** https://www.freecodecamp.org/ananfito
+
 ### Day 40: September 14, 2022
 
 **Today's Progress:** I did A LOT today. Here's a list of what I accomplished:
