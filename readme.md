@@ -3,7 +3,7 @@ Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, 
 
 ### Day 41: September 15, 2022
 
-**Today's Progress:** I completed a few more challenges on freeCodeCamp's [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) course. I'm currently 58% done the Functional Programming section.
+**Today's Progress:** I completed a few more challenges on freeCodeCamp's [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) course. I'm currently 58% done with the Functional Programming section.
 
 *Quotes & Key Ideas:*
 
@@ -12,7 +12,7 @@ Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, 
 - "Functional programming is all about creating and using non-mutating functions."
 - `concat` vs. `push`: `concat` does not mutate the original array while `push` does. This means if we want to add elements to an array without mutating it `concat` is a better choice
 
-**Thoughts:** I only made a through a few challenges today, but I'm happy I made a little bit of progress especially considering it was my first day back at work after being sick. Today's challenges weren't too difficult. I had seen some of these methods in previous challenges, but in a different context. I'm enjoying being able to see there different use cases - I think it's helping me gain a better understanding of them. 
+**Thoughts:** I only made it a through a few challenges today, but I'm happy I made a little bit of progress especially considering it was my first day back at work after being sick. Today's challenges weren't too difficult. I had seen some of these methods in previous challenges, but in a different context. I'm enjoying being able to see the different use cases - I think it's helping me gain a better understanding of them.
 
 **Link to work:** https://www.freecodecamp.org/ananfito
 
