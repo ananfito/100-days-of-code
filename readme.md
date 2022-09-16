@@ -1,6 +1,35 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
 
+### Day 42: September 16, 2022
+
+**Today's Progress:** I had a breakthrough while writing a function using the `reduce` method and I'm 75% done with 'Functional Programming' section of freeCodeCamp's JavaScript Algoothms and Data Structure [course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures).
+
+*Quotes & Key Ideas:*
+
+- "The `reduce` method iterates over each item in an array and returns a single value (i.e. string, number, object, array). This is achieved via a callback function that is called on each iteration." The callback function takes four arguments: (1) the accumulator; which gets assigned the return value of the return value of the callback function from the previous iteration, (2) the current element being processed, (3) the index of that element, and (4) the array upon which `reduce` is called
+  - In addition to the callback function, `reduce` also takes an initial value for the accumulator. "If this second parameter is not used, then the first iteration is skipped and the second iteration gets passed the first element of the array as the accumulator."
+  - The MDN documentation a helpful [example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce#try_it) of `reduce` to calculate a sum
+- The `sort` method sorts elements of an array in ascending order (by default) BUT this based on converting the elements into strings and comparing the Unicode point value. However, this can return unexpected results. Thus, it's best practice to provide a callback function (usually called `compareFunction`) to define how you want the elements sorted. More details [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
+  - NOTE: The `sort` method **mutates** the array it's called upon. One way to avoid this is to first concatenate an empty array to the one being sorted, then run the `sort` method
+
+**Thoughts:** I had a breakthrough in today's session: I managed to write an **entire** function without having to consult a "bazzillion" different sources. Lately I've had to refer to several different resources (e.g., documentation, forum posts, videos) to get through challenges. But today was different and it felt great!
+
+While working on the challenge, I read the instructions carefully, broke the task into pieces, and only needed to refer to the MDN documentation *once* - and that was just for clarifcation on how syntax works for the `reduce` method. That's it!
+
+It might not sound like a lot, but   I almost screamed, "F*ck yeah!" when I saw the 'Tests passed' pop-up, but restrained myself since I was studying late and didn't want to distrub my partner (who was sleeping in the other room).
+
+Feeling good about today's session and looking forward to more studying this weekend. (-:
+
+*References:*
+
+The following documentation was useful into today's challenges:
+- [`isInteger`](https://www.w3schools.com/jsref/jsref_isinteger.asp)
+- [`reduce`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+- [`sort`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+
+**Link to work:** https://www.freecodecamp.org/ananfito
+
 ### Day 41: September 15, 2022
 
 **Today's Progress:** I completed a few more challenges on freeCodeCamp's [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) course. I'm currently 58% done with the Functional Programming section.
