@@ -1,5 +1,51 @@
 # 100 Days Of Code - Log
-Welcome to my journal for the #100DaysOfCode challenge. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
+Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
+
+### Day 43: September 17, 2022
+
+**Today's Progress:** I completed the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section of freeCodeCamp's JS course.
+
+Next up is [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting), then I'll start the [certification projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects).
+
+I also read through a tutorial on [how JavaScript DOM works](https://www.freecodecamp.org/news/the-javascript-dom-a-practical-tutorial/) and I read through some of [MDN's accessibility guides](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) for upcoming blog post on how improved the accessiblity of [my portfolio site](https://ananfito.github.io).
+
+*Quotes & Key Ideas:*
+
+- DOM = Document Object Model
+  - "The DOM is a Web API that allows developers to use programming logic to make changes to their HTML code. It's a reliable way to make changes that turn static websites into dynamic ones."
+  - "`querySelector` is a method which accepts the exact CSS selector in a string and returns one element. ... If you wanted to use this approach to select and return more than one element, you can use `querySelectorAll` instead."
+    - Similarly, we can use `getElementByClassName`, `getElementById`, `getElementsByTagName` to select elements. However, these are more restrictve than `querySelector` and `querySelectorAll` which are more general
+- Manipulation is the main purpose of DOM. It allows you to select the elements you want to work with to be able to add interactivity to your website.
+- There are two key concepts for understanding DOM manipulation: **events** and **handlers**:
+  - **events:** An action performed by the user (e.g., click, swipe)
+  - **handlers:** The triggered response to when an event is read
+  - Responses are tied to each event and are monitored by *event listeners* such as the method `addEventListener` which takes two arguments (event, event handler)
+    - Anatomy of an event: `element.eventListenerMethod(event, eventHandler)`
+- "The `split` method splits a string into an array of strings. It takes an argument for the delimiter, which can be a character to use to break up the string or a regular expression."
+  - "Since strings are *immutable*, the `split` method makes it easier to work with them."
+- "The `join` method is used to join the elements of an array together to create a string. It takes an argument for the delimiter that is used to separate the array elements in the string"
+- "The `every` method works with arrays to check if *every* element passes a particular test. It returns a Boolean value - `true` if all values meet the criteria, `false` if not."
+- "The `some` method works with arrays to check if any element passes a particular test. It returns a Boolean value - true if any of the values meet the criteria, false if not." (This is another one I encountered while building the Tetris app - admittedly at the time I was a little confused at what it was, but today I'm glad I got another, clearer look at it)
+- "The **arity** of a function is the number of arguments it requires. **Currying** a function means to convert a function of N arity into N functions of arity 1."
+  - "In other words, it restructures a function so it takes one argument, then returns another function that takes the next argument, and so on."
+  - "This is useful in your program if you can't supply all the arguments to a function at one time."
+- "**partial application** can be described as applying a few arguments to a function at a time and returning another function that is applied to more arguments."
+
+**Thoughts:** I had a great study session today. I used the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to stay focus as well as to stay active - during each break I made sure to stand up, stretch, and walk around. I listened to the Battlestar Galactica song [*Prelude to War*](https://youtu.be/K2RQvE0GfYQ) on repeat while I studied and then switched to [*Fight Night*](https://youtu.be/b9v3OVClkUs) or [*Allegro*](https://youtu.be/6qCDazeZ8TU) during the breaks.
+
+This was a new strategy I implemented today. I've noticed previously sometimes I don't always take a long enough break so by listening to a different (shorter) song on the break I made sure I was staying active for a sufficient amount of time.
+
+Today's freeCodeCamp challenges on Functional Programming were at just the right level of difficulty (or perhaps things are starting to make sense). I was having fun working my way through the challenges; they were like little puzzles that needed to be solved.
+
+Also, now that I've completed this section there's only one more section to complete until it's time to work on the certification projects. I'm really excited about this because while I find the challenges helpful, working on projects is where I think I learn the most.
+
+*References:*
+
+- This fCC blog article was very helpful in furthering my understanding of DOM, query selectors, event listeners (which I made use of on my [Tetris](https://github.com/ananfito/basic-tetris) app): [How the JavaScript DOM Works – A Practical Tutorial](https://www.freecodecamp.org/news/the-javascript-dom-a-practical-tutorial/)
+- The [Regular expression syntax cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) on MDN is always a useful reference I have bookmarked for easy access
+   - Read more about [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+**Link to work:** https://www.freecodecamp.org/ananfito
 
 ### Day 42: September 16, 2022
 
