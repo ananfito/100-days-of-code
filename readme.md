@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
 
+### Day 44: September 18, 2022
+
+**Today's Progress:** I wrote a blog post about how I made my portfolio site more accessible and I started the Intermediate Algorithm Scripting section of [freeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) - I'm currently 5% done with the section.
+
+**Thoughts:** I really enjoyed writing the blog post about web development, accessibility, and how I made my portfolio site more accessible. This is a task I worked on earlier this week, but reflecting it help solidify some of the concepts.
+
+I spent almost an hour working on freeCodeCamp and only completed one challenge. Admittedly, that's a little frustrating, but I did learn something during this time: don't overthink your solution. The challenge required writing a function that calculates the sum given a two-integer array. For example, given `[1, 4]` the function would add the numbers between 1 and 4 and return the sum `10`.
+
+My first attempt involved two different `if` statements and `for` loops. After purusing the Internet and the MDN web docs for most of that hour, I eventually consulted freeCodeCamp's solution for some hints and learned that I was overthinking the problem all together. I was using the `if` statements to check for the minimum and maximum value of the array, BUT there's a method for that: `Math.min()` and `Math.max()`.
+
+Learning this greatly simplified the overall program only need a single `for` loop to complete it. Ultimately, this
+
+*References:*
+
+- [stackoverflow: how to add up repeaint number by one with JS?](https://stackoverflow.com/questions/17513326/how-to-add-up-repeating-number-by-one-with-js)
+
+**Link to work:** https://www.freecodecamp.org/ananfito
+
 ### Day 43: September 17, 2022
 
 **Today's Progress:** I completed the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) section of freeCodeCamp's JS course.
