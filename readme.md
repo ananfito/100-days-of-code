@@ -3,7 +3,7 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ### Day 44: September 18, 2022
 
-**Today's Progress:** I wrote a blog post about how I made my portfolio site more accessible and I started the Intermediate Algorithm Scripting section of [freeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) - I'm currently 5% done with the section.
+**Today's Progress:** I wrote a [blog post about how I made my portfolio site more accessible](https://ananfito.hashnode.dev/what-does-accessibility-mean-for-developers) and I started the Intermediate Algorithm Scripting section of [freeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) - I'm currently 5% done with the section.
 
 **Thoughts:** I really enjoyed writing the blog post about web development, accessibility, and how I made my portfolio site more accessible. This is a task I worked on earlier this week, but reflecting it help solidify some of the concepts.
 
