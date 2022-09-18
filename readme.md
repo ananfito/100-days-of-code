@@ -9,9 +9,9 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 I spent almost an hour working on freeCodeCamp and only completed one challenge. Admittedly, that's a little frustrating, but I did learn something during this time: don't overthink your solution. The challenge required writing a function that calculates the sum given a two-integer array. For example, given `[1, 4]` the function would add the numbers between 1 and 4 and return the sum `10`.
 
-My first attempt involved two different `if` statements and `for` loops. After purusing the Internet and the MDN web docs for most of that hour, I eventually consulted freeCodeCamp's solution for some hints and learned that I was overthinking the problem all together. I was using the `if` statements to check for the minimum and maximum value of the array, BUT there's a method for that: `Math.min()` and `Math.max()`.
+My first attempt involved two different `if` statements and `for` loops. After perusing the Internet and the MDN web docs for most of that hour, I eventually consulted freeCodeCamp's solution for some hints and learned that I was overthinking the problem all together. I was using the `if` statements to check for the minimum and maximum value of the array, BUT there's a method for that: `Math.min()` and `Math.max()`.
 
-Learning this greatly simplified the overall program only need a single `for` loop to complete it. Ultimately, this
+Learning this greatly simplified the overall program - it only needed a single `for` loop to complete it. Ultimately, this did turn out to be a valuable learning experience because now I know that if I'm struggling with solving something, I need to go back to the drawing board and (perhaps) take a simpler approach.
 
 *References:*
 
