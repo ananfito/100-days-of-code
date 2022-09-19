@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
 
+### Day 45: September 19, 2022
+
+**Today's Progress:** Today I tinkered with the sample landing page on my portfolio site and I watched two tutorial videos.  
+
+**Thoughts:** I kept today's study session rather light in terms of its cognitive demand. I don't think I got enough sleep last night (or perhaps low quality sleep) so I decided to skip the algorithm scripting challenges on freeCodeCamp. Instead, I focused on targeting one of my identified weakness: media queries.
+
+I know that a few of my sample pages on my website don't properly reformat when viewed on a smaller browser window or on a mobile browser. Part of that comes from not fully understanding how media queries work. This is obviously something I want to work (hence why I identified it as a weakness) but it's also an important factor when making website accessible.
+
+After watching Web Dev Simplified's tutorial on CSS Media Queries, I feel more confident in how they work and how to use them. In particular, the syntax around them is clearer to me know. Before I didn't quite understand the extra sets of braces `{}` and layers within them.
+
+Now that I've got that piece understood my next goal is to continue tinkering with my portfolio site. I know some of the pages are already set when it comes to media queries, but the sample landing page has some issues with it. One thing I want to do for it is to get it setup so that the navbar is resized properly on smaller browser windows. As it is right now the menu overlaps and it's not easy to see what's what.
+
+*References:*
+
+- [Learn CSS Media Query In 7 Minutes](https://youtu.be/yU7jJ3NbPdA)
+- [Create a responsive navigation nav with no JS!](https://youtu.be/8QKOaTYvYUA)
+
+**Link to work:** https://github.com/ananfito/ananfito.github.io/blob/main/2149-book.md/#files
+
 ### Day 44: September 18, 2022
 
 **Today's Progress:** I wrote a [blog post about how I made my portfolio site more accessible](https://ananfito.hashnode.dev/what-does-accessibility-mean-for-developers) and I started the Intermediate Algorithm Scripting section of [freeCodeCamp's JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) - I'm currently 5% done with the section.
