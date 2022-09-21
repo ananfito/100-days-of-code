@@ -8,20 +8,26 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 46: September 20, 2022
+### Day 47: September 21, 2022
 
-**Today's Progress:** Today was a low code day for me. Yesterday, I started tinkering with my portfolio site and realized that I didn't have any readme files to describe the projects - I just had the live versions. So today I decided to create and setup repositories for them on my GitHub page to better showcase not just the live versions, but also the code behind them.
+**Today's Progress:** Completed 2 [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 14% complete with this section.
 
-**Thoughts:** At first I felt a little guilty about not working on the freeCodeCamp challenges, but then I reminded myself that I just finished the Functional Programming section and it probably is a good thing to take a little bit of a break from the algorithmic thinking side of programming. It's a lot to take in and I'm still new at this so it doesn't always come easily.
+**Thoughts:** I struggled with these challenges. I'm not sure if I'm just thinking about it in the wrong way or if I just need more practice (or both). Either way, tomorrow's a new day for more practice.
 
-Further, I have to remember to be patient and forgiving toward myself. As the saying goes, "Rome wasn't build in a day" and neither will my web development career. It's built over many days - good, bad, and ugly days.
+*References:*
 
-Thankfully, today wasn't a good, bad, or an ugly. It was just a low code day. And part of that is because of a few things outside of my control (like my full-time job), but there are things inside my control (like how I react to less-than-productive days) which is where my focus needs to be.
+- [`indexOf()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
+- [The `arguments` object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+- [`includes()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+- [`filter()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+- [`splice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+- [`slice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+- [StackOverflow: How can I convert the "arguments" object to an array in JavaScript?](https://stackoverflow.com/questions/960866/how-can-i-convert-the-arguments-object-to-an-array-in-javascript)
+- [`Array.from()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
-Ultimately, I'm glad I got the repositories and portfolio site setup. Otherwise it probably would have taken more memory in my brain and distracted me from thinking clearly. And fortunately for me, tomorrow is an early dissmissal day so I hope to have a little bit of extra time to study.
-
-**Link to work:** https://github.com/ananfito
+**Link to work:** https://www.freecodecamp.org/ananfito
 
 ## Previous Entries
 
 - [Days 0 through 45](./days0-45.md)
+- [Day 46](./day46.dm)
