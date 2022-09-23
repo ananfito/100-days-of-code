@@ -1,13 +1,3 @@
-# 100 Days Of Code - Log
-Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
-
-## Contents
-
-- [Latest Entry](#latest-entry)
-- [Previous Entries](#previous-entries)
-
-## Latest Entry
-
 ### Day 47: September 21, 2022
 
 **Today's Progress:** Completed 2 [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 14% complete with this section.
@@ -26,12 +16,3 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 - [`Array.from()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
 **Link to work:** https://www.freecodecamp.org/ananfito
-
-## Previous Entries
-
-- [Days 0 through 45](./days0-45.md)
-- [Day 46](./day46.md)
-- [Day 47](./day47.md)
-- Day 48: Rest Day
-- Day 49: Rest Day
-- Day 50
