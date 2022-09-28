@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
+Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). Each day during the challenge I log my progress and my thoughts. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [LinkedIn](https://linkedin.com/in/anthonynanfito), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
 
 ## Contents
 
