@@ -1,13 +1,3 @@
-# 100 Days Of Code - Log
-Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
-
-## Contents
-
-- [Latest Entry](#latest-entry)
-- [Previous Entries](#previous-entries)
-
-## Latest Entry
-
 ### Day 54: September 28, 2022
 
 **Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 38% complete
@@ -41,16 +31,3 @@ In hindsight, this strategy seems obvious and it may have been similar to how I 
 - [`String.fromCharCode()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode)
 
 **Link to work:** [freeCodeCamp Timeline](https://www.freecodecamp.org/ananfito)
-
-## Previous Entries
-
-- [Days 0–45](./days0-45.md)
-- [Day 46](./day46.md)
-- [Day 47](./day47.md)
-- Day 48: Rest Day
-- Day 49: Rest Day
-- [Day 50](./day50.md)
-- [Day 51](./day51.md)
-- [Day 52](./day52.md)
-- [Day 53](./day53.md)
-- [Day 54](./day54.md)
