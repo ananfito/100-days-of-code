@@ -8,37 +8,31 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 54: September 28, 2022
+### Day 55: September 29, 2022
 
-**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 38% complete
+**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 43% complete
 
-**Thoughts:** Today I had a really great and productive study session (albeit split up through the day). I managed to get through two challenges ('Search and replace' and 'DNA Pairing') on freeCodeCamp. Neither dealt with regular expressions so they were a bit easier than the challenges I worked on today.
+**Thoughts:** Now that I'm past the regular expressions challenges my progress has been faster and less frustrating. However, I will still need to learn more about regular expressions and plan to write a blog post about the topic so I can understand it on a deeper level.
 
-I'm very proud of myself for getting through the 'Search and replace' challenge without having to consult any sources except the documentation. This felt good and I was excited to do more. I had a similar experience with the 'DNA Pairing' challenge, but I did consult the solution just so that I could read the problem explanation; the initial explanation was vague and didn't make clear how the DNA base pairs match up.
+Overall, today's session was a productive study session, but I did need to consult the solution because my script wasn't working. At first, I thought my logic statement was incorrect so I tried it a few different ways - even though they didn't make sense logically I assumed I was thinking about it wrong. After looking at the solution, it turns out my logic was fine, but I had my `return` statement in the wrong place. -_- I had it in *inside* the `else` statement inside `for` loop when it should have been *outside* the `for` loop all together.
 
-For both challenges (and the third challenge I started, but didn't finish) I implemented the following strategy:
-- Read and make sense of the problem by re-writing the explanation
-- Outline the steps/parts need to solve the problem in pseudo-code
-- Build each part and test it
-- Put it all together
-- Test and experiment until a solution is found
+In hindsight, this makes sense and now I know why the `else` statement wasn't being triggered under the appropriate conditions. I'm grateful I made this mistake because it's another example of how you can have your outline, or logic, of a program correct but if something is in the wrong place it won't work probably.
 
-In hindsight, this strategy seems obvious and it may have been similar to how I tackled previous scripting challenges, but today I was more consistent with implementing it. There were multiple times where I wanted to jump straight into the problem, but I forced myself to follow my strategy. I think it contributed to my success today and prevent some of the frustration I was feeling on the previous days when I studied. I will definitely remember it and implement again in the future.
+On that note, I've continued outlining my programs with pseudo-code before I begin writing them and this is continuing to help me immensely (even when I make simple mistakes like putting the `return` statement in the wrong place).
 
 *Study Music:* [Battlestar Galactica's Prelude to War by Bear McCreary](https://youtu.be/4f2MnaV_j0Q)
 
 *References:*
 
-- [The arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
-- [`replace()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 - [Character sets: ISO-8859-1 (Western Europe)](https://www.charset.org/charsets/iso-8859-1)
 - [`charCodeAt()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt)
-- [`toUpperCase()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
-- [`toLowerCase()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
-- [`slice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
 - [String length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
 - [`charAt()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
 - [`String.fromCharCode()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode)
+- [freeCodeCamp Challenge Guide: Missing letters](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-missing-letters/16023)
+- [The `arguments` object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+- [Simple Javascript Nested Array Examples](https://code-boxx.com/javascript-nested-array/)
+- [`includes()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 
 **Link to work:** [freeCodeCamp Timeline](https://www.freecodecamp.org/ananfito)
 
@@ -54,3 +48,7 @@ In hindsight, this strategy seems obvious and it may have been similar to how I 
 - [Day 52](./day52.md)
 - [Day 53](./day53.md)
 - [Day 54](./day54.md)
+- [Day 55](./day55.md)
+- Day 56: Rest Day
+- Day 57: Rest Day
+- [Day 58](./day58.md)
