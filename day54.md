@@ -1,6 +1,6 @@
 ### Day 54: September 28, 2022
 
-**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 38% complete
+**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 38% complete.
 
 **Thoughts:** Today I had a really great and productive study session (albeit split up through the day). I managed to get through two challenges ('Search and replace' and 'DNA Pairing') on freeCodeCamp. Neither dealt with regular expressions so they were a bit easier than the challenges I worked on today.
 
