@@ -8,28 +8,23 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 59: October 3, 2022
+### Day 60: October 4, 2022
 
 **Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 48% complete.
 
-I also published the [blog post about regular expressions](https://ananfito.hashnode.dev/regular-expressions-a-basic-explanation) that I had written yesterday.
+**Thoughts:** I started, but did not finish the 'Convert HTML Entities' challenge on freeCodeCamp. Part of the script I wrote works for some of the test, but doesn't work for the others. After consulting the hints, I believe my error was in trying to only the `replace()` method when I need to, instead, split the string up before replace the characters. However, I haven't checked the solutions yet so maybe my approach is still valid. I'll continue tweaking the script tomorrow.
 
-**Thoughts:** Today's session was brief, but I learned two key things: (1) the `for...of` loop makes certain iterative steps easier, and (2) the logical not `!` can be used inside an `if` statement.
+I would have liked to study more but I didn't have the time and kept getting interrupted. That aside, I'm still satisfied with what I accomplished today. I do enjoy the challenge of figuring out the pieces of the script and seeing how they fit together to solve a problem.
 
-I stumbled upon the `for...of` loop while watching a tutorial video about the solution to a challenge on freeCodeCamp. I was stuck on the challenge and had tried a few different variations of the logical statement and my `for` loop but couldn't get it to work (even though when I tested the pieces of it with `console.log()` which should the individual pieces worked, but not the whole). Thankfully, the suggestion in the tutorial help solve that problem.
-
-After consulting the documentation for the `for...of` loop I found that this type of loop is quite useful for iterative processes. Especially in this challenge where I had to check each item within a series of arrays. After tweaking my initial, ordinary `for` loop to become a `for...of` loop, it made the solution more simple.
-
-Further, the tutorial also talked about the using the logical not `!` inside an `if` statement - which seems obvious to me now, but before I didn't think that was possible. I had assumed that you needed to using something like `if ( /* condition */ === false)` in order to get the negated version (or the equivalent statement `if ( /* condition */ !=== true)`). Discovering this was both helpful solving the challenge, but also helpful for future challenges (I wish I had known it for some previous challenges).
-
-I would have liked to have studied further, but unfortunately my study session got interrupted by a flood evacuation for my apartment. Thankfully, my partner and I (and our valuable belongings) are safe, but that meant least time for studying. However, sometimes there are more important things than studying.
-
-*Study Music:* [Battlestar Galactica's Prelude to War by Bear McCreary](https://youtu.be/4f2MnaV_j0Q)
+*Study Music:* [Mozart - Classical Music for Brain Power](https://youtu.be/iUohO2MSot8)
 
 *References:*
 
-- [`for...of` loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
-- [Logical NOT `!`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT)
+- [freeCodeCamp Challenge Guide: Convert HTML Entities](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-convert-html-entities/16007)
+- [`replace()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [Character Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes)
+- [`test()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
 
 **Link to work:** [freeCodeCamp Timeline](https://www.freecodecamp.org/ananfito)
 
@@ -52,3 +47,4 @@ I would have liked to have studied further, but unfortunately my study session g
 - [Day 58: October 2, 2022](./day58.md)
 - [Day 59: October 3, 2022](./day59.md)
 - [Day 60: October 4, 2022](./day60.md)
+- [Day 61: October 5, 2022](./day61.md)
