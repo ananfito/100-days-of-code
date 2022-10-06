@@ -8,23 +8,20 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 60: October 4, 2022
+### Day 61: October 5, 2022
 
-**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 48% complete.
+**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 52% complete.
 
-**Thoughts:** I started, but did not finish the 'Convert HTML Entities' challenge on freeCodeCamp. Part of the script I wrote works for some of the test, but doesn't work for the others. After consulting the hints, I believe my error was in trying to only the `replace()` method when I need to, instead, split the string up before replace the characters. However, I haven't checked the solutions yet so maybe my approach is still valid. I'll continue tweaking the script tomorrow.
+**Thoughts:** Yesterday, I was struggling with finding a solution to the 'Convert HTML Entities' challenge, but after consulting the hints in the Challenge Guide, I realized the error was in multiple if/then statements to replace the characters with their HTML entity. Further, the hints suggestions splitting the string in to separate parts, then rejoining them.
 
-I would have liked to study more but I didn't have the time and kept getting interrupted. That aside, I'm still satisfied with what I accomplished today. I do enjoy the challenge of figuring out the pieces of the script and seeing how they fit together to solve a problem.
+After taking the hints into consideration I made the necessary changes and the solution passed the test. I think this is another example of where I have the right idea, but my implementation is a little off. I'm not sure how to find a better way to find solutions, other than just more practice.  
 
-*Study Music:* [Mozart - Classical Music for Brain Power](https://youtu.be/iUohO2MSot8)
+*Study Music:* [Battlestar Galactica's Prelude to War by Bear McCreary](https://youtu.be/4f2MnaV_j0Q)
 
 *References:*
 
+- [`switch`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 - [freeCodeCamp Challenge Guide: Convert HTML Entities](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-convert-html-entities/16007)
-- [`replace()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
-- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
-- [Character Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes)
-- [`test()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
 
 **Link to work:** [freeCodeCamp Timeline](https://www.freecodecamp.org/ananfito)
 
@@ -48,3 +45,4 @@ I would have liked to study more but I didn't have the time and kept getting int
 - [Day 59: October 3, 2022](./day59.md)
 - [Day 60: October 4, 2022](./day60.md)
 - [Day 61: October 5, 2022](./day61.md)
+- [Day 62: October 6, 2022](./day62.md)
