@@ -8,20 +8,30 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 61: October 5, 2022
+### Day 64: October 8, 2022
 
-**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 52% complete.
+**Today's Progress:** I took a break from coding today and I had a no-code studying session. I learned about accessibility on the web and JSON.
 
-**Thoughts:** Yesterday, I was struggling with finding a solution to the 'Convert HTML Entities' challenge, but after consulting the hints in the Challenge Guide, I realized the error was in multiple if/then statements to replace the characters with their HTML entity. Further, the hints suggestions splitting the string in to separate parts, then rejoining them.
+*Quotes & Key Ideas:*
+- Hidden links can be used to skip content on websites to make it more accessible for people using keyboards or assistive devices.
+- JSON = JavaScript Object Notation
+  - Data representation format
+  - Commonly used for APIs and Configs
+  - Lightweight and easy to read/write
+  - Integrates easily with most languages
+- JSON Types: strings, numbers, booleans, null, arrays, objects
+  - Note: when using strings in JSON you need to use double quotes `""` not single quotes `''`. In JavaScript it doesn't matter, but in JSON it does.
 
-After taking the hints into consideration I made the necessary changes and the solution passed the test. I think this is another example of where I have the right idea, but my implementation is a little off. I'm not sure how to find a better way to find solutions, other than just more practice.  
+**Thoughts:** It's been a challenging. Personally, I've been dealing with stress at work while also having to temporarily evacuate my apartment due to flooding. Thankfully, the flooding only blocked the roads and did not damage the apartment, but all of that made it difficult to stay focus and study.
+
+I wanted to do more today and maybe I will later in the day, but I decided to keep things light and step away from the freeCodeCamp challenges. Instead, I watched some of the YouTube tutorials I saved to my 'Watch Later' list. It might not have been the most challenging or productive study session, but it was informative. 
 
 *Study Music:* [Battlestar Galactica's Prelude to War by Bear McCreary](https://youtu.be/4f2MnaV_j0Q)
 
 *References:*
 
-- [`switch`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
-- [freeCodeCamp Challenge Guide: Convert HTML Entities](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-convert-html-entities/16007)
+- [Why Does Nearly Every Site Have This “Invisible Unclickable“ Link?](https://youtu.be/VUR0I5mqq7I)
+- [Learn JSON in 10 Minutes](https://youtu.be/iiADhChRriM)
 
 **Link to work:** [freeCodeCamp Timeline](https://www.freecodecamp.org/ananfito)
 
@@ -46,3 +56,5 @@ After taking the hints into consideration I made the necessary changes and the s
 - [Day 60: October 4, 2022](./day60.md)
 - [Day 61: October 5, 2022](./day61.md)
 - [Day 62: October 6, 2022](./day62.md)
+- Day 63: Rest Day
+- [Day 64: October 8, 2022](./day64.md)
