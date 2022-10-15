@@ -8,34 +8,40 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 70: October 14, 2022
+### Day 71: October 15, 2022
 
-**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; 57% complete.
+**Today's Progress:** I continued working [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) challenges on freeCodeCamp; I completed the challenges 'Sum All Primes' and 'Smallest Common Multiple'. I am currently 67% complete with this section.
 
-*Quotes & Key Ideas:*
+**Thoughts:** Overall, I'm satisfied that I was able to sit down and complete two different challenges today, but it wasn't without frustration and perseverance. In particular, both of the challenges I worked on had a mathematical focus. In fact, the brought back (fond?) memories of the Number Theory course I took in undergrad. Which brings me to a frustration I've had before: I understand the mathematics but get stuck on translated the mathematical language into a computer language.
 
-- `Array.filter()` is similar to a `for` loop and an `if` statement *combined*. In particular, when the arrow function `=>` is used the piece to the left of the `=>` is the piece that will be iterated over the array and the piece to the right of the `=>` is the `if` statement (or condition for which the filter is selecting). For example, `arr.filter(element => element % 2 !== 0)` filters all elements in the array `arr` that are odd. The first `element` refers to the elements in the array `arr` and will iterate through all of them (as dictated by the `filter` method) while the statement `element % 2 !== 0` is telling the `filter` method to select only the odd numbers from the array `arr`.
+All of this is part of the learning process for the new skills I'm developing. I know in the future when I'm working as a developer there will be aspects of a problem that I understand but won't be able to 'translate' into computer language ... yet! And that's the key, I have to remind myself that this is a continue process and that I won't always get it right away - it will take time and practice. Further, working on these two challenges have caused me to reflect on and refine my strategy for approaching these challenges:
 
-**Thoughts:** During today's session I think I stumbled upon a strategy to help me further my understanding. After stewing in frustration, I decided to consult the challenge guide and a tutorial for the challenge I found on YouTube - both have solutions to the challenge. However, I deliberately chose not to (initially) look at the solutions from the guide and tried to focus on the hints.
-
-After a failed attempted to implement the hints, I consulted the YouTube tutorial video I found. I appreciated the explanation of the why and how certain methods are being used to solve the problem. That's really helpful as a beginner. Unfortunately the solution in the video was a few years old (it created an infinite loop so it's no longer valid) and doesn't pass the tests.
-
-HOWEVER, the video's solution made use of the `filter` and `reduce` methods - methods I previously struggled with - and helped explain them in context. This was extremely helpful and a light bulb moment for me because I have been avoiding using the methods whenever possible since they didn't make much sense to me. Now they do which is great. In particular (as outlined above) I have a better understanding of how the `filter` and arrow function `=>` work. The analogy to a `for` loop and `if` statement helped clarify things in my head.
-
-Finally, what ultimately helped me figure out the solution to this challenge was looking at the solution and deconstructing it. By that I mean not simply copying and pasting it into to pass the tests, but take it apart to identify what each section and method is doing to solve the challenge. Further, [this freeCodeCamp forum comment on an alternative solution](https://forum.freecodecamp.org/t/fibonacci-sums-using-array-filter-and-array-reduce/437062/2) helped me understand why my original solution was not working (or rather was inefficient) since it made use of arrays. This is only one opinion and I'm sure others may disagree, but it helped me see why in [the solution in freeCodeCamp's Challenge Guide](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-sum-all-odd-fibonacci-numbers/16084) did *not* make use of an array.
-
-Strangely, today's study session was brief but I probably learned more in it than I have in any of the previous study sessions this past week.
+- **Redefine the problem in my own words**
+  - I've been keeping files of notes for each challenge where I rewrite the problem statement in my own words. This has helped me better understand what the problem is asking me to do - I originally started doing this because I found the descriptions of the problems on fCC vague and unclear at times.
+- **Outline the solution**
+  - After I know what the problem is asking, I start outlining my solution in pseudo-code by listing the steps needed to solve it and what methods (e.g., a `for` loop) will be needed
+- **Attempt my solution**
+  - If it doesn't work, do some research and refine it
+  - Consult the challenge guide and YouTube tutorials as needed  
+    - Initially, I was very adamant about NOT doing this, because I was being stubborn about having to solve the challenges completely on my own, BUT now I'm recognizing that it's simply not feasible and, in reality, *no one* solves problems on their own in the developer world (and in the world-at-large - indeed, all of humanity is one giant collaborative problem solving venture)
 
 *Study Music:* [Battlestar Galactica's Prelude to War by Bear McCreary](https://youtu.be/4f2MnaV_j0Q)
 
 *References:*
 
-- [`while`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
-- [`do...while`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
-- [`forEach()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-- [freeCodeCamp Challenge Guide: Sum All Odd Fibonacci Numbers](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-sum-all-odd-fibonacci-numbers/16084)
-- [YouTube Tutorial: freeCodeCamp Sum All Odd Fibonacci Numbers](https://youtu.be/dT_q5zcUAxQ)
-- [Addition assignment `=+`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment)
+- [freeCodeCamp Challenge Guide: Sum All Primes](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-sum-all-primes/16085)
+- [How to find prime numbers between 0 - 100?](https://stackoverflow.com/questions/11966520/how-to-find-prime-numbers-between-0-100)
+- [Prime Numbers](https://www.geeksforgeeks.org/prime-numbers/)
+- [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
+- [freeCodeCamp - Sum All Primes](https://youtu.be/uwSs2AQUV2Q)
+  - This YouTube tutorial was semi-helpful, I had to consult other references to fully understand the solution to the 'Sum All Primes' challenge
+- [freeCodeCamp Sum All Primes](https://youtu.be/se4C7H7b6I0)
+  - I'm really enjoying Matt Lambert's explanations for these challenges. It's pushing me to understand each section of the code and I enjoy how he explains his thinking for why he's doing something instead of just simply doing it.
+- [freeCodeCamp Challenge Guide: Smallest Common Multiple](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-smallest-common-multiple/16075)
+- [Least common multiple](https://en.wikipedia.org/wiki/Least_common_multiple)
+- [Greatest common divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor#greatest_common_denominator)
+- [freeCodeCamp Smallest Common Multiple](https://youtu.be/SAMUCHLUJeU)
+  - Again, I'm really enjoying how Matt Lambert explains his thinking behind his solutions. It's helping me understand better and I'm outlining my own thinking in my solutions so that I'll remember it in the future in case I need a reference point.
 
 **Link to work:** [freeCodeCamp Timeline](https://www.freecodecamp.org/ananfito)
 
@@ -65,3 +71,4 @@ Strangely, today's study session was brief but I probably learned more in it tha
 - Days 65 - 68: Rest Days
 - [Day 69: October 13, 2022](./day69.md)
 - [Day 70: October 14, 2022](./day70.md)
+- [Day 71: October 15, 2022](./day71.md)
