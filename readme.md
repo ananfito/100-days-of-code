@@ -55,4 +55,4 @@ The DOM Manipulation course taught by CodeLab was also really exciting. When I c
 - [Day 75: October 19, 2022](./day75.md)
 - Day 76: Rest Day
 - Day 77: Rest Day
-- [Day 78: October 22, 2022](./day77.md)
+- [Day 78: October 22, 2022](./day78.md)
