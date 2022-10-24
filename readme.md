@@ -8,20 +8,23 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 79: October 23, 2022
+### Day 80: October 24, 2022
 
-**Today's Progress:** Today I continued following the [JavaScript DOM Manipulation Course](https://youtu.be/5fb2aPlgoys) taught by [CodeLab](https://www.youtube.com/c/CodeLab98) and hosted on freeCodeCamp's YouTube channel.
+**Today's Progress:** Today I continued following the [JavaScript DOM Manipulation Course](https://youtu.be/5fb2aPlgoys) taught by [CodeLab](https://www.youtube.com/c/CodeLab98) and hosted on freeCodeCamp's YouTube channel. I completed the random quote generator and modal projects while also starting the stopwatch project.
 
-**Thoughts:** Everything went smoothly during today's study session. I started setting up the HTML & CSS files for the project - which was a really good review - and I'm ready to start with the JavaScript in my next session.
-
-Overall, I'm enjoying this change to a project since it has re-energized my desire to learn.
+**Thoughts:** I'm really enjoying this mine-course on DOM Manipulation with JavaScript. It's letting me see specific use cases for various JavaScript functions and methods while also giving me a good review of HTML and CSS. This has renewed my interested and given me insight into what's possible. I enjoy the intellectual challenge that comes with the coding challenges on freeCodeCamp, but they are often abstract and devoid of practical uses. This course has been an excellent experience in how to put these ideas into practice. Especially since I've seen things like the modal and accordion as a user of the web. It's neat to know how they work and that I can make one myself.  
 
 *References:*
 
-- [What does meta http-equiv=”X-UA-Compatible” content=”IE=edge” do?](https://www.constant-surfer.com/info/x-ua-compatible)
-- [<meta>: The metadata element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+- [Learn Flexbox in 15 Minutes](https://youtu.be/fYq5PXgSsbE)
+- [@media width](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
+- [What Is a Modal and When Should I Use One?](https://blog.hubspot.com/website/modal-web-design)
 
-**Link to work:** https://github.com/ananfito/random-quote-generator
+**Link to work:**
+
+- [Random Quote Generator](https://github.com/ananfito/random-quote-generator)
+- [Accordion](https://github.com/ananfito/accordion-demo)
+- [Stopwatch](https://github.com/ananfito/stopwatch)
 
 ## Previous Entries
 
@@ -58,3 +61,4 @@ Overall, I'm enjoying this change to a project since it has re-energized my desi
 - Day 77: Rest Day
 - [Day 78: October 22, 2022](./day78.md)
 - [Day 79: October 23, 2022](./day79.md)
+- [Day 80: October 24, 2022](./day80.md)
