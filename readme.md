@@ -55,4 +55,4 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 - [Day 78: October 22, 2022](./day78.md)
 - [Day 79: October 23, 2022](./day79.md)
 - [Day 80: October 24, 2022](./day80.md)
-- [Day 81](./day81.md)
+- [Day 81: October 25, 2022](./day81.md)
