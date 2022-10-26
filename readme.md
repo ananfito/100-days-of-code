@@ -8,16 +8,24 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 81: October 25, 2022
+### Day 82: October 26, 2022
 
-**Today's Progress:** Today I finished  the [JavaScript DOM Manipulation Course](https://youtu.be/5fb2aPlgoys) taught by [CodeLab](https://www.youtube.com/c/CodeLab98) and hosted on freeCodeCamp's YouTube channel. I completed the 'Stopwatch' and 'To-Do List' projects.
+**Today's Progress:** Today I started working on the calculator app I am creating. In fact, I am completing this as part of a challenge I found on Frontend Mentor. I downloaded the files, setup my repo, and started coding the HTML and CSS files.
 
-**Thoughts:** I really enjoyed this course. It helped me understand some key concepts from the Basic Tetris app I created a few weeks ago. In particular, it's given me a deeper understanding of how methods like the `eventListener` work and add a greater degree of functionality to a website. I can already envision different uses cases which is really empowering. For a while I was beginning to question what is the point of all this, but after going through this tutorial I can see directly what the point of it all is **AND** that's exciting. I already have an idea for calculator app I want to design based on this tutorial to challenge myself and improve my skills.
+**Thoughts:** I really happy with this project choice. So far it seems to be the right level of complexity for where I'm at in my learning. I'm also happy I found the challenge on Frontend Mentor because (initially) I was unsure of where to get started but I didn't really want to watch a YouTube tutorial where all the coding is done for me and I just follow along. I really wanted something I could work on myself, but needed a little guidance to get started. I'm grateful for the Frontend Mentor challenge because it offers just that.
 
-**Link to work:**
+*References:* 
 
-- [Stopwatch](https://github.com/ananfito/stopwatch)
-- [To-Do List](https://github.com/ananfito/to-do-list)
+- [Work with CSS Grid Lines Using Grid Column Start and Grid Row Start (video)](https://youtu.be/Vb9-8uuonAY)
+- [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [`grid-column`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column)
+- [`grid-row`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row)
+- [`grid`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
+- [`grid-template-columns`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
+- [`grid-template`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
+- [`grid-template-rows`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
+
+**Link to work:** https://github.com/ananfito/calculator
 
 ## Previous Entries
 
