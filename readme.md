@@ -8,22 +8,17 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 82: October 26, 2022
+### Day 83: October 27, 2022
 
-**Today's Progress:** Today I started working on the calculator app I am creating. In fact, I am completing this as part of a challenge I found on Frontend Mentor. I downloaded the files, setup my repo, and started coding the HTML and CSS files.
+**Today's Progress:** I continued working on the calculator app challenge I started yesterday, but didn't get very far. I'm stuck on the CSS Styling for the theme buttons.
 
-**Thoughts:** I really happy with this project choice. So far it seems to be the right level of complexity for where I'm at in my learning. I'm also happy I found the challenge on Frontend Mentor because (initially) I was unsure of where to get started but I didn't really want to watch a YouTube tutorial where all the coding is done for me and I just follow along. I really wanted something I could work on myself, but needed a little guidance to get started. I'm grateful for the Frontend Mentor challenge because it offers just that.
+**Thoughts:** Today's session wasn't super productive but I think I'm getting closer to how to style the theme buttons for the calculator. The two tutorials I watched helped me realize that I should be using radio input buttons instead of regular buttons. However, styling the radio buttons will be tricky and that's where I got stuck. I wanted to keep pushing myself, but my head hurt so I decide to opt for rest instead.
 
-*References:* 
+*References:*
 
-- [Work with CSS Grid Lines Using Grid Column Start and Grid Row Start (video)](https://youtu.be/Vb9-8uuonAY)
-- [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [`grid-column`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column)
-- [`grid-row`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row)
-- [`grid`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
-- [`grid-template-columns`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
-- [`grid-template`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
-- [`grid-template-rows`](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
+- [Style Radio Buttons with CSS](https://youtu.be/MZq5zFSpUlo)
+- [Custom CSS Radio Button](https://youtu.be/P_koTkWeyXE)
+- [`<input type="radio">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 
 **Link to work:** https://github.com/ananfito/calculator
 
@@ -64,3 +59,5 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 - [Day 79: October 23, 2022](./day79.md)
 - [Day 80: October 24, 2022](./day80.md)
 - [Day 81: October 25, 2022](./day81.md)
+- [Day 82: October 26, 2022](./day82.md)
+- [Day 83: October 27, 2022](./day83.md)
