@@ -8,17 +8,17 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 83: October 27, 2022
+### Day 87: October 31, 2022
 
-**Today's Progress:** I continued working on the calculator app challenge I started yesterday, but didn't get very far. I'm stuck on the CSS Styling for the theme buttons.
+**Today's Progress:** I continued working on the calculator app challenge from Frontend Mentor. I re-watched (and followed along with) the [Custom CSS Radio Button](https://youtu.be/P_koTkWeyXE) tutorial which helped me get closer to customizing the radio buttons to look more like the ones in the design images.
 
-**Thoughts:** Today's session wasn't super productive but I think I'm getting closer to how to style the theme buttons for the calculator. The two tutorials I watched helped me realize that I should be using radio input buttons instead of regular buttons. However, styling the radio buttons will be tricky and that's where I got stuck. I wanted to keep pushing myself, but my head hurt so I decide to opt for rest instead.
+**Thoughts:** Overall, I'm really happy with today's study session. I'm still recovering from a head cold so I was unsure if I would be able to study at all. At certain points I felt a little frustrated but I think that's due more to the fact that I was fatigue than anything else. I know I'm getting closer to having the right style for the Theme buttons on the calculator which makes me really excited because I'm making progress.
+
+I think I might start another Frontend Mentor project so that I can bounce between them when I get stuck. I noticed that taking a break and coming back to the problem helped me think more clearly about the problem and it helped me focus more on the tutorial (rather than just being irritated that it wasn't making sense). This is something I've known and previously experienced BUT it was still a good reminder that it takes time for new ideas to sink and sometimes the best strategy is to walk away and come back later.
 
 *References:*
 
-- [Style Radio Buttons with CSS](https://youtu.be/MZq5zFSpUlo)
 - [Custom CSS Radio Button](https://youtu.be/P_koTkWeyXE)
-- [`<input type="radio">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 
 **Link to work:** https://github.com/ananfito/calculator
 
@@ -61,3 +61,5 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 - [Day 81: October 25, 2022](./day81.md)
 - [Day 82: October 26, 2022](./day82.md)
 - [Day 83: October 27, 2022](./day83.md)
+- Day 84-86: Rest Day
+- [Day 87: October 31, 2022](./day87.md)
