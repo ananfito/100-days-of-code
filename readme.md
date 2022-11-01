@@ -8,19 +8,19 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 87: October 31, 2022
+### Day 88: November 1, 2022
 
-**Today's Progress:** I continued working on the calculator app challenge from Frontend Mentor. I re-watched (and followed along with) the [Custom CSS Radio Button](https://youtu.be/P_koTkWeyXE) tutorial which helped me get closer to customizing the radio buttons to look more like the ones in the design images.
+**Today's Progress:** Today I completed the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-**Thoughts:** Overall, I'm really happy with today's study session. I'm still recovering from a head cold so I was unsure if I would be able to study at all. At certain points I felt a little frustrated but I think that's due more to the fact that I was fatigue than anything else. I know I'm getting closer to having the right style for the Theme buttons on the calculator which makes me really excited because I'm making progress.
+**Thoughts:** For the most part, this challenge was a review exercise for me. Regardless, I did have a **big takeaway**: when using flexbox and centering content vertically you need to set the `height` parameter of the `body` to `100vh`. This is something I initially forgot to include in my styling sheet. It caused some frustration but I continued to style project until the very end I had to figure it out. Thankfully, I reviewed an old project where I accomplished the same goal and that's when I saw the `height: 100vh` which reminded me what I was missing.
 
-I think I might start another Frontend Mentor project so that I can bounce between them when I get stuck. I noticed that taking a break and coming back to the problem helped me think more clearly about the problem and it helped me focus more on the tutorial (rather than just being irritated that it wasn't making sense). This is something I've known and previously experienced BUT it was still a good reminder that it takes time for new ideas to sink and sometimes the best strategy is to walk away and come back later.
+After submitting my solution I received an accessibility report and a comment from a community member. Both provided helpful feedback in making my webpage more accessible, but that task will have to be done another day for now I must rest.
 
-*References:*
+**Link to work:**
 
-- [Custom CSS Radio Button](https://youtu.be/P_koTkWeyXE)
-
-**Link to work:** https://github.com/ananfito/calculator
+- Repo: https://github.com/ananfito/frontend-mentor/tree/main/qr-code-component-main
+- Live: https://ananfito.github.io/frontend-mentor/qr-code-component-main/
+- Solution: https://www.frontendmentor.io/solutions/mobile-friendly-solution-using-css-flexbox-ZWBJvCnbdV
 
 ## Previous Entries
 
@@ -63,3 +63,4 @@ I think I might start another Frontend Mentor project so that I can bounce betwe
 - [Day 83: October 27, 2022](./day83.md)
 - Day 84-86: Rest Day
 - [Day 87: October 31, 2022](./day87.md)
+- [Day 88: November 1, 2022](./day88.md)
