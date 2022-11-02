@@ -8,13 +8,21 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 88: November 1, 2022
+### Day 89: November 2, 2022
 
-**Today's Progress:** Today I completed the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+**Today's Progress:** Made corrections to the QR Code Component challenge based on feedback and fell down a tangent learning how to install Node.js and run HTML files through a web server on localhost.
 
-**Thoughts:** For the most part, this challenge was a review exercise for me. Regardless, I did have a **big takeaway**: when using flexbox and centering content vertically you need to set the `height` parameter of the `body` to `100vh`. This is something I initially forgot to include in my styling sheet. It caused some frustration but I continued to style project until the very end I had to figure it out. Thankfully, I reviewed an old project where I accomplished the same goal and that's when I saw the `height: 100vh` which reminded me what I was missing.
+**Thoughts:** I'm grateful for the feedback I received on Frontend Mentor. It makes me want to continue working on projects there; it feels less isolating than working exercises on freeCodeCamp (not that that *isn't* important as well).
 
-After submitting my solution I received an accessibility report and a comment from a community member. Both provided helpful feedback in making my webpage more accessible, but that task will have to be done another day for now I must rest.
+The tangent I took to learn how to setup a web server on localhost was interesting but probably more distracting. I understood most of the JavaScript needed to setup the web sever but I think I need to have a deeper conceptual understanding before I progress further. For now, I'm okay with not having it setup but it is something I'd like to study in the future.
+
+*References:*
+
+- [Semantic HTML for Meaningful Webpages](https://seekbrevity.com/semantic-markup-important-web-design/)
+- [HTML & CSS Crash Course Tutorial #6 - HTML 5 Semantics](https://youtu.be/kGW8Al_cga4)
+- [How to install Node JS in Mac OS X. Run local web server in Node. Create first application on Node](https://youtu.be/uMPW_5jckOY)
+- [Your First Node.js Web Server](https://youtu.be/VShtPwEkDD0)
+- [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
 
 **Link to work:**
 
@@ -64,3 +72,4 @@ After submitting my solution I received an accessibility report and a comment fr
 - Day 84-86: Rest Day
 - [Day 87: October 31, 2022](./day87.md)
 - [Day 88: November 1, 2022](./day88.md)
+- [Day 89: November 2, 2022](./day89.md)
