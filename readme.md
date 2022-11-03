@@ -8,27 +8,18 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 89: November 2, 2022
+### Day 90: November 3, 2022
 
-**Today's Progress:** Made corrections to the QR Code Component challenge based on feedback and fell down a tangent learning how to install Node.js and run HTML files through a web server on localhost.
+**Today's Progress:** Today I continued exploring how to style the theme buttons for the calculator app challenge. I managed to get it styled and animated the way it should be, but I don't have the right shape.  
 
-**Thoughts:** I'm grateful for the feedback I received on Frontend Mentor. It makes me want to continue working on projects there; it feels less isolating than working exercises on freeCodeCamp (not that that *isn't* important as well).
-
-The tangent I took to learn how to setup a web server on localhost was interesting but probably more distracting. I understood most of the JavaScript needed to setup the web sever but I think I need to have a deeper conceptual understanding before I progress further. For now, I'm okay with not having it setup but it is something I'd like to study in the future.
+**Thoughts:** I'm really happy I figured out how to style the radio buttons with CSS customization. This something I've been working on for a while now and I'm happy I found a solution - even if it's not the solution I need for the project. While it's a little frustrating to have to learn so many things and still not have what I need for the project, I'm still really grateful for what I am learning because it's helping me practicing HTML/CSS as well as learn so new things along the way (things I wasn't expecting to learn but will probably come in handy later on).
 
 *References:*
 
-- [Semantic HTML for Meaningful Webpages](https://seekbrevity.com/semantic-markup-important-web-design/)
-- [HTML & CSS Crash Course Tutorial #6 - HTML 5 Semantics](https://youtu.be/kGW8Al_cga4)
-- [How to install Node JS in Mac OS X. Run local web server in Node. Create first application on Node](https://youtu.be/uMPW_5jckOY)
-- [Your First Node.js Web Server](https://youtu.be/VShtPwEkDD0)
-- [Introduction to Node.js](https://nodejs.dev/en/learn/introduction-to-nodejs/)
+- [How to Create a Custom Radio Button - HTML & CSS Tutorial](https://youtu.be/5K7JefKDa4s)
+  - This video was helpful in setting up my current customization but I think this video, [CSS Toggle Switch](https://youtu.be/LVPmYBgBdeM), is more of the style I need for this project.
 
-**Link to work:**
-
-- Repo: https://github.com/ananfito/frontend-mentor/tree/main/qr-code-component-main
-- Live: https://ananfito.github.io/frontend-mentor/qr-code-component-main/
-- Solution: https://www.frontendmentor.io/solutions/mobile-friendly-solution-using-css-flexbox-ZWBJvCnbdV
+**Link to work:** https://github.com/ananfito/calculator
 
 ## Previous Entries
 
