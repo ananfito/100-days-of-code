@@ -8,16 +8,17 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 90: November 3, 2022
+### Day 92: November 5, 2022
 
-**Today's Progress:** Today I continued exploring how to style the theme buttons for the calculator app challenge. I managed to get it styled and animated the way it should be, but I don't have the right shape.  
+**Today's Progress:** Continued working on the theme button selector the the calculator app. I'm getting closer and closer to the design specifications. I also learned about the CSS grids and units.
 
-**Thoughts:** I'm really happy I figured out how to style the radio buttons with CSS customization. This something I've been working on for a while now and I'm happy I found a solution - even if it's not the solution I need for the project. While it's a little frustrating to have to learn so many things and still not have what I need for the project, I'm still really grateful for what I am learning because it's helping me practicing HTML/CSS as well as learn so new things along the way (things I wasn't expecting to learn but will probably come in handy later on).
+**Thoughts:** Today's study session was long and productive. I learned about CSS grid which helped me get my theme selector buttons where I wanted to them, but I'm feeling a little bit frustrated because there is some extra space in one of my `div` within a grid and I'm not sure why. I assume it has something do with some styling property I have (or do not have). For now, I think I need to step away from this project and come back to it later with a fresh mind and fresh perspective.
 
 *References:*
 
-- [How to Create a Custom Radio Button - HTML & CSS Tutorial](https://youtu.be/5K7JefKDa4s)
-  - This video was helpful in setting up my current customization but I think this video, [CSS Toggle Switch](https://youtu.be/LVPmYBgBdeM), is more of the style I need for this project.
+- [CSS Toggle Switch](https://youtu.be/LVPmYBgBdeM)
+- [Learn CSS Grid in 20 Minutes](https://youtu.be/9zBsdzdE4sM)
+- [Learn CSS Units In 8 Minutes](https://youtu.be/-GR52czEd-0)
 
 **Link to work:** https://github.com/ananfito/calculator
 
@@ -64,3 +65,6 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 - [Day 87: October 31, 2022](./day87.md)
 - [Day 88: November 1, 2022](./day88.md)
 - [Day 89: November 2, 2022](./day89.md)
+- [Day 90: November 3, 2022](./day90.md)
+- Day 91: Rest Day
+- [Day 92: November 5, 2022](./day92.md)
