@@ -8,17 +8,17 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 92: November 5, 2022
+### Day 94: November 7, 2022
 
-**Today's Progress:** Continued working on the theme button selector the the calculator app. I'm getting closer and closer to the design specifications. I also learned about the CSS grids and units.
+**Today's Progress:** I watched a few tutorials on how to use HTML, CSS, and JavaScript to create light/dark theme button.
 
-**Thoughts:** Today's study session was long and productive. I learned about CSS grid which helped me get my theme selector buttons where I wanted to them, but I'm feeling a little bit frustrated because there is some extra space in one of my `div` within a grid and I'm not sure why. I assume it has something do with some styling property I have (or do not have). For now, I think I need to step away from this project and come back to it later with a fresh mind and fresh perspective.
+**Thoughts:** Todays mostly a research driven study session. Now that I have the layout of my calculator complete I need to start working on the theme styling and the functionality of the theme button. I would have liked to have started this but I ended up getting a migraine attack later in the day so I had to cut my study session start.
 
 *References:*
 
-- [CSS Toggle Switch](https://youtu.be/LVPmYBgBdeM)
-- [Learn CSS Grid in 20 Minutes](https://youtu.be/9zBsdzdE4sM)
-- [Learn CSS Units In 8 Minutes](https://youtu.be/-GR52czEd-0)
+- [Light/Dark Theme Toggle with CSS and JavaScript](https://youtu.be/xodD0nw2veQ)
+- [How To Make Website DARK MODE | Dark Theme Website Design Using HTML, CSS & JS](https://youtu.be/9LZGB3OLXNQ)
+- [How To Build An Advanced Light/Dark Theme Toggle](https://youtu.be/RiWxhm5ZdFM)
 
 **Link to work:** https://github.com/ananfito/calculator
 
@@ -68,3 +68,6 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 - [Day 90: November 3, 2022](./day90.md)
 - Day 91: Rest Day
 - [Day 92: November 5, 2022](./day92.md)
+- Day 93: Rest Day
+- [Day 94: November 7, 2022](./day94.md)
+- [Day 95: November 8, 2022](./day95.md)
