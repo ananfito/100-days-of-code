@@ -2,7 +2,7 @@
 
 **Today's Progress:** I watched a few tutorials on how to use HTML, CSS, and JavaScript to create light/dark theme button.
 
-**Thoughts:** Todays mostly a research driven study session. Now that I have the layout of my calculator complete I need to start working on the theme styling and the functionality of the theme button. I would have liked to have started this but I ended up getting a migraine attack later in the day so I had to cut my study session start.
+**Thoughts:** Today was mostly a research-driven study session with little coding. Now that I have the layout of my calculator complete I need to start working on the theme styling and the functionality of the theme button. I would have liked to have started this but I ended up getting a migraine attack later in the day so I had to cut my study session start.
 
 *References:*
 
