@@ -8,17 +8,15 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 ## Latest Entry
 
-### Day 95: November 8, 2022
+### Day 97: November 10, 2022
 
-**Today's Progress:** Today I watched another tutorial on setting up a theme button and I started styling the colors of the first theme on the calculator app.
+**Today's Progress:** I continued working on the calculator app; I added styling to make it mobile friendly. I also watched (& followed along with) a tutorial on setting up a theme button.
 
-**Thoughts:** Slowly but surely I'm making my way toward completing this project. When I started I thought the JavaScript might be the most complex thing (and it might still be) but I'm finding the CSS styling is really what's challenging me (but in a good way). I've learned more about CSS styling in the project than I thought I would and I'm really grateful because I think it's filling in some knowledge gaps.
+**Thoughts:** I'm satisfied with the progress I'm making on this project, but a little frustrated with the tutorial video I watched today. I followed along but the end product only worked in the Chrome web browser (even though the tutorial include JavaScript that would account for browser compatibility). I'm not sure if I need to try and fix the error (if there is one) or try a different approach. 
 
 *References:*
 
-- [Light/Dark Theme Toggle with CSS and JavaScript](https://youtu.be/xodD0nw2veQ)
-- [How To Make Website DARK MODE | Dark Theme Website Design Using HTML, CSS & JS](https://youtu.be/9LZGB3OLXNQ)
-- [How To Build An Advanced Light/Dark Theme Toggle](https://youtu.be/RiWxhm5ZdFM)
+- [`@media/width`](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
 - [How to create a theme switcher with HTML & CSS](https://youtu.be/fyuao3G-2qg)
 
 **Link to work:** https://github.com/ananfito/calculator
@@ -72,3 +70,5 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 - Day 93: Rest Day
 - [Day 94: November 7, 2022](./day94.md)
 - [Day 95: November 8, 2022](./day95.md)
+- Day 96: Rest Day
+- [Day 97: November 10, 2022](./day97.md)
