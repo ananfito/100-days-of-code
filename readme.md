@@ -4,6 +4,7 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 ## Contents
 
 - [Latest Entry](#latest-entry)
+  - [100 Day Challenge Reflection](#100-day-challenge-reflection)
 - [Previous Entries](#previous-entries)
 
 ## Latest Entry
@@ -14,7 +15,7 @@ Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofco
 
 November 12, 2022 marked the 100th day of my journey on the #100DaysOfCode Challenge. In this post, I look back on what I learned from the challenge and what I want to gain as I move forward to the next 100 days.
 
-### Contents
+### Outline
 
 - [Where I've Been](#Where-Ive-Been)
 - [What I Accomplished](#What-I-Accomplished)
@@ -188,4 +189,4 @@ Thanks for reading. If you'd like to continue sharing this journey with me, cons
 - [Day 97: November 10, 2022](./day97.md)
 - Day 98: Rest Day
 - [Day 99: November 11, 2022](./day99.md)
-- [#100DaysOfCode Reflection](./day100.md)
+- [100 Day Challenge Reflection](./day100.md)
