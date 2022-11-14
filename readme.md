@@ -16,9 +16,9 @@ November 12, 2022 marked the 100th day of my journey on the #100DaysOfCode Chall
 
 ### Contents
 
-- [Where I've Been](#Where-I've-Been)
+- [Where I've Been](#Where-Ive-Been)
 - [What I Accomplished](#What-I-Accomplished)
-  - [My "Did It" List](#My-"Did-It"-List)
+  - [My "Did It" List](#My-Did-It-List)
 - [Where I Want to go](#Where-I-Want-to-go)
   - [Double Down on JavaScript](#Double-Down-on-JavaScript)
   - [More Frontend Mentor Challenges](#More-Frontend-Mentor-Challenges)
