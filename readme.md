@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
-Welcome to my journal for the [#100DaysOfCode challenge](https://www.100daysofcode.com/). Each day during the challenge I log my progress and my thoughts. If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [LinkedIn](https://linkedin.com/in/anthonynanfito), [Hashnode](https://ananfito.hashnode.dev/), or [DEV](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
+Welcome to my journal for Round 1 of [#100DaysOfCode challenge](https://www.100daysofcode.com/). Each day during the challenge I logged my progress and my thoughts. You can scroll down to read my final reflection after completing the challenge as well as the individual entries for each day.
+
+For Round 2 of the challenge (another 100 days of code) I have chosen to post weekly summaries to [my blog on Hashnode](https://ananfito.hashnode.dev/).
+
+If you'd like to learn, connect, and grow with me, follow me on [Twitter](https://twitter.com/wordsbyfifi/), [LinkedIn](https://linkedin.com/in/anthonynanfito), or [DEV.to](https://dev.to/ananfito). Thanks for stopping by. Happy Coding!
 
 ## Contents
 
-- [Latest Entry](#latest-entry)
-  - [100 Day Challenge Reflection](#100-day-challenge-reflection)
+- [100 Day Challenge Reflection](#100-day-challenge-reflection)
 - [Previous Entries](#previous-entries)
 
-## Latest Entry
-
-### 100 Day Challenge Reflection
+## 100 Day Challenge Reflection
 
 *Originally posted on November 14, 2022 to [my blog](https://ananfito.hashnode.dev/day-100-lessons-learned-from-100daysofcode)*
 
